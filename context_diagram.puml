@@ -1,4 +1,5 @@
 @startuml
+  skinparam backgroundcolor transparent
   left to right direction
   actor Driver as a
   actor "Map System" as ms
