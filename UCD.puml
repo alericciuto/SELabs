@@ -1,0 +1,18 @@
+@startuml
+  left to right direction
+  actor Driver as d
+  actor "Gas Station Manager" as gsm
+  actor "Map System" as ms
+  d -- (FR1 Manage user account)
+  (FR1 Manage user account) --> (FR1.1 Create user) : <<include>>
+  (FR1 Manage user account) --> (FR1.2 Edit user) : <<include>>
+  (FR1 Manage user account) --> (FR1.3 Delete user) : <<include>>
+  d -- (FR4 Handle view a map considering the user's location)
+  d -- (FR5 Handle highlighting of the gas stations in the map with the price they pratice)
+  d -- (FR6 Handle update of the map of gas stations prices )
+  d -- (FR7 Handle adding of a gas station price )
+  (FR7 Handle adding of a gas station price ) <|-- (FR8 Handle updating of a gas station price) : <<extend>>
+  gsm -- (FR4 Handle view a map considering the user's location)
+  gsm -- (FR5 Handle highlighting of the gas stations in the map with the price they pratice)
+  (FR4 Handle view a map considering the user's location) -- ms
+@enduml
