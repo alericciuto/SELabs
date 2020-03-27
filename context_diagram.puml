@@ -1,7 +1,9 @@
 @startuml
   left to right direction
   actor Driver as a
+  actor "Gas Station Manager" as gsm
   actor "Map System" as ms
   a -- ( EZGas System )
+  gsm -- ( EZGas System )
   ( EZGas System ) -- ms
 @enduml
