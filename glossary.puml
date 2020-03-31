@@ -1,0 +1,55 @@
+@startuml
+  class User {
+   +isDriver()
+   +getPosition()
+  }
+
+  note right of User
+    User could be a Gas Station Manager or a Driver.
+    The second one shall have an account.
+  end note
+
+  class Account {
+   -accountID
+   -fullName
+   -username
+   -email
+   +getAccountID()
+   +createAccount()
+   +editAccount()
+   +deleteAccount()
+   +login()
+   +logout()
+  }
+  note right: Driver's info and profile's actions
+
+  class GasStation {
+   -price
+   -address
+   -position
+   +getPrice()
+   +getPosition()
+   +getAddress()
+  }
+  note left: Gas Station's info
+
+  class Map {
+   +loadMap()
+   +retrieveGasStationData()
+   +highlightGasStation()
+   +updatePrice()
+   +addPrice()
+   +refresh()
+   +expandInfoGasStation()
+  }
+
+  note left of Map
+    Map loaded from the MapSystem. 
+    Updating or Adding a price is 
+    only possibile by Driver User.
+  end note
+
+  Account " 1 " -down-o "0...1" User
+  GasStation "1 " -down-o " * " Map
+  Map " * " -right- "1" User : \t<-- Looks at\t
+@enduml
