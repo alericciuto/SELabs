@@ -1,0 +1,7194 @@
+﻿1
+00:01:42,707 --> 00:01:43,916
+Excuse me.
+
+2
+00:01:44,000 --> 00:01:46,627
+I was looking for the <i>Weekly Volcano</i> office.
+
+3
+00:01:46,711 --> 00:01:48,337
+I wish to see Mr. Dashwood.
+
+4
+00:01:51,215 --> 00:01:54,927
+A friend of mine desired me to offer a story by her.
+
+5
+00:01:55,011 --> 00:01:57,054
+She-- She wrote it.
+
+6
+00:01:57,138 --> 00:02:00,933
+-She'd be glad to write more if this suits.
+-Not a first attempt, I take it.
+
+7
+00:02:01,017 --> 00:02:03,728
+No, sir. She has sold to <i>Olympic</i> and Scandal,
+
+8
+00:02:03,811 --> 00:02:07,023
+and got a prize for a tale at the <i>Blarneystone Banner.</i>
+
+9
+00:02:07,106 --> 00:02:08,483
+A prize?
+
+10
+00:02:10,066 --> 00:02:10,902
+Yes.
+
+11
+00:02:13,154 --> 00:02:14,030
+Sit.
+
+12
+00:02:56,489 --> 00:02:57,490
+We'll take this.
+
+13
+00:02:59,492 --> 00:03:00,535
+Oh, you will?
+
+14
+00:03:00,618 --> 00:03:02,662
+With alterations. It's too long.
+
+15
+00:03:04,288 --> 00:03:06,082
+But you've cut...
+
+16
+00:03:07,750 --> 00:03:10,253
+I took care to have a few of my sinners repent.
+
+17
+00:03:10,336 --> 00:03:12,255
+The country just went through a war.
+
+18
+00:03:12,338 --> 00:03:15,716
+People want to be amused, not preached at.
+
+19
+00:03:15,800 --> 00:03:17,760
+Morals don't sell nowadays.
+
+20
+00:03:17,844 --> 00:03:20,221
+Perhaps mention that to your friend.
+
+21
+00:03:23,474 --> 00:03:26,310
+What compensation--? How do you--?
+
+22
+00:03:26,394 --> 00:03:28,896
+We pay 25 to 30 for things of this sort.
+
+23
+00:03:28,980 --> 00:03:30,523
+We'll pay 20 for that.
+
+24
+00:03:34,360 --> 00:03:36,279
+You can have it. Make the edits.
+
+25
+00:03:44,245 --> 00:03:48,958
+Should I tell my friend that you'll take another
+if she had one better than this?
+
+26
+00:03:49,041 --> 00:03:51,794
+We'll look at it. Tell her to make it short and spicy.
+
+27
+00:03:51,878 --> 00:03:56,424
+And if the main character's a girl,
+make sure she's married by the end.
+
+28
+00:03:56,507 --> 00:03:58,593
+-Or dead. Either way.
+-Excuse me?
+
+29
+00:03:59,135 --> 00:04:02,263
+What name would she like put to the story?
+
+30
+00:04:03,681 --> 00:04:06,225
+Yes, none at all, if you please.
+
+31
+00:04:06,309 --> 00:04:08,060
+Just as she likes, of course.
+
+32
+00:04:08,144 --> 00:04:09,228
+Oh, well...
+
+33
+00:04:10,438 --> 00:04:12,899
+Good morning, sir. Good day.
+
+34
+00:04:14,066 --> 00:04:15,318
+Yes!
+
+35
+00:04:52,647 --> 00:04:55,233
+My Beth would like you very much.
+
+36
+00:04:55,316 --> 00:04:58,986
+-I'd like a room for two people.
+-Perfect. That's 4.50 a week.
+
+37
+00:04:59,070 --> 00:05:02,406
+-And that's a good price.
+-Isn't that a little expensive?
+
+38
+00:05:02,490 --> 00:05:04,826
+This is a boardinghouse, not a charity.
+
+39
+00:05:04,909 --> 00:05:06,661
+I need the rent on time.
+
+40
+00:05:13,000 --> 00:05:14,877
+Good afternoon, Miss March.
+
+41
+00:05:14,961 --> 00:05:16,295
+Oh, good afternoon.
+
+42
+00:05:24,011 --> 00:05:25,555
+You're on fire.
+
+43
+00:05:25,638 --> 00:05:26,472
+Thank you.
+
+44
+00:05:29,934 --> 00:05:31,269
+You're on fire!
+
+45
+00:05:34,897 --> 00:05:37,650
+-Thank you.
+-I have the same habit. You see?
+
+46
+00:05:41,070 --> 00:05:42,947
+Kitty and Minnie are waiting.
+
+47
+00:05:43,990 --> 00:05:46,200
+-My students need me.
+-Always working.
+
+48
+00:05:46,284 --> 00:05:49,871
+Money is the end and aim of my mercenary existence.
+
+49
+00:05:49,954 --> 00:05:53,958
+No one gets ink stains like yours
+just out of a desire for money.
+
+50
+00:05:54,041 --> 00:05:57,837
+My sister Amy's in Paris,
+and until she marries someone wealthy,
+
+51
+00:05:57,920 --> 00:06:00,047
+it's up to me to keep the family afloat.
+
+52
+00:06:00,131 --> 00:06:01,215
+Goodbye.
+
+53
+00:06:22,945 --> 00:06:26,032
+The Decadents have ruined Paris, if you ask me.
+
+54
+00:06:26,115 --> 00:06:29,785
+These French women couldn't lift a hairbrush.
+
+55
+00:06:29,869 --> 00:06:30,995
+Amy!
+
+56
+00:06:31,078 --> 00:06:34,373
+I said, these French women couldn't lift a hairbrush.
+
+57
+00:06:34,457 --> 00:06:37,001
+Oh, yes. Very true, Aunt March.
+
+58
+00:06:37,084 --> 00:06:38,961
+Don't humor me, girl.
+
+59
+00:06:40,463 --> 00:06:43,591
+What do they write, your troublemaking family?
+
+60
+00:06:43,674 --> 00:06:46,010
+Mother doesn't say anything about Beth.
+
+61
+00:06:47,011 --> 00:06:51,516
+-I feel I should go back, but they all say, "Stay."
+-You can do nothing if you go back.
+
+62
+00:06:51,599 --> 00:06:53,518
+The girl is sick, not lonely.
+
+63
+00:06:53,601 --> 00:06:58,481
+And you shouldn't go home until you
+and Fred Vaughn are properly engaged.
+
+64
+00:06:58,564 --> 00:07:02,109
+Yes, and until I've completed all of my painting lessons.
+
+65
+00:07:03,736 --> 00:07:05,780
+Oh, yes, yes.
+
+66
+00:07:07,031 --> 00:07:08,241
+Of course.
+
+67
+00:07:15,623 --> 00:07:17,875
+-Stop the carriage! Laurie!
+-What are you doing?
+
+68
+00:07:17,959 --> 00:07:20,086
+-Laurie, Laurie, Laurie!
+-Amy!
+
+69
+00:07:20,169 --> 00:07:21,420
+-Laurie!
+-Amy!
+
+70
+00:07:22,088 --> 00:07:22,922
+Amy!
+
+71
+00:07:23,756 --> 00:07:25,007
+How are you?
+
+72
+00:07:25,091 --> 00:07:28,636
+-You've grown so much.
+-You wrote you'd meet me at the hotel.
+
+73
+00:07:28,719 --> 00:07:30,888
+-I couldn't find you.
+-You didn't look hard enough.
+
+74
+00:07:30,972 --> 00:07:33,516
+-I didn't recognize you. You're so beautiful now.
+-Stop it.
+
+75
+00:07:33,599 --> 00:07:35,601
+-I thought you liked that?
+-Where's your grandfather?
+
+76
+00:07:35,685 --> 00:07:38,980
+In Germany. He's still traveling.
+I'm traveling on my own now. Just relaxing.
+
+77
+00:07:39,063 --> 00:07:41,941
+-Flirting and gambling and drinking.
+-Yes. Don't tell your mother.
+
+78
+00:07:42,024 --> 00:07:44,026
+Are you chasing some young girl across Europe?
+
+79
+00:07:44,861 --> 00:07:45,736
+No.
+
+80
+00:07:48,364 --> 00:07:51,200
+I couldn't believe Jo turned you down. I'm so sorry.
+
+81
+00:07:51,701 --> 00:07:54,287
+Don't be, Amy. I-- I'm not.
+
+82
+00:07:56,038 --> 00:07:57,415
+Amy!
+
+83
+00:07:57,498 --> 00:07:58,708
+Amy March!
+
+84
+00:07:58,791 --> 00:08:01,919
+-Come back here right this instant! Come.
+-Aunt March.
+
+85
+00:08:02,003 --> 00:08:03,254
+Come on.
+
+86
+00:08:03,337 --> 00:08:05,548
+-Aren't you looking grand?
+-Get him off me!
+
+87
+00:08:05,631 --> 00:08:07,258
+We need to be somewhere. Off you go!
+
+88
+00:08:07,341 --> 00:08:10,469
+Come to the New Year's Eve party.
+Everyone will be there, including Fred.
+
+89
+00:08:10,553 --> 00:08:13,181
+Pick me up at the hotel at 8, The Chavain.
+
+90
+00:08:13,264 --> 00:08:16,017
+And, Laurie, dress for festivities!
+
+91
+00:08:16,100 --> 00:08:17,643
+Top hats and silks!
+
+92
+00:08:17,727 --> 00:08:19,770
+I will. I'll wear my best silk.
+
+93
+00:08:25,359 --> 00:08:26,861
+It's Laurie.
+
+94
+00:08:28,654 --> 00:08:30,114
+I know.
+
+95
+00:08:39,457 --> 00:08:42,793
+Twenty yards of the blue silk, as well as pink.
+Someone will be by for it later.
+
+96
+00:08:42,877 --> 00:08:47,256
+Meg, that'd look lovely on you.
+I know just the dressmaker to send you to.
+
+97
+00:08:47,340 --> 00:08:50,134
+-You'll be the prettiest wife in Concord.
+-Oh, I...
+
+98
+00:08:50,218 --> 00:08:53,471
+John needs a new coat for winter,
+and Daisy and Demi need new clothes, I--
+
+99
+00:08:53,554 --> 00:08:56,724
+-And his wife needs a new dress.
+-I can't. It's--
+
+100
+00:08:57,850 --> 00:08:58,851
+I just can't.
+
+101
+00:08:58,935 --> 00:09:02,396
+He'll be so pleased with how you look,
+he'll forget all about the expense.
+
+102
+00:09:04,315 --> 00:09:06,442
+I don't suppose it's too much an extravagance.
+
+103
+00:09:06,526 --> 00:09:08,486
+Will 20 yards do?
+
+104
+00:09:08,569 --> 00:09:10,530
+-Yes.
+-Very good.
+
+105
+00:09:15,535 --> 00:09:17,912
+Fifty dollars? What was I thinking?
+
+106
+00:09:25,503 --> 00:09:27,213
+-Mommy!
+-Mommy!
+
+107
+00:09:29,507 --> 00:09:30,883
+Oh, my loves.
+
+108
+00:09:33,845 --> 00:09:34,804
+Go play.
+
+109
+00:10:05,042 --> 00:10:06,210
+Beth!
+
+110
+00:10:08,129 --> 00:10:09,255
+Beth?
+
+111
+00:10:09,338 --> 00:10:11,382
+There lies your way, due west.
+
+112
+00:10:11,465 --> 00:10:13,301
+Then westward ho!
+
+113
+00:10:13,384 --> 00:10:16,804
+Grace and good disposition attend, Your Ladyship.
+
+114
+00:10:16,888 --> 00:10:20,224
+You'll nothing, madam, to my lord by me?
+
+115
+00:10:20,308 --> 00:10:24,145
+Stay, I prithee, tell me what thou thinkest of me.
+
+116
+00:10:24,228 --> 00:10:27,190
+That you do think you are not what you are.
+
+117
+00:10:27,273 --> 00:10:32,111
+-If I think so, I think the same of you.
+-Then think you right, I am not what I am.
+
+118
+00:10:58,304 --> 00:11:01,724
+Like, a big one. Like, a big one... Like that.
+
+119
+00:11:05,645 --> 00:11:06,729
+Excuse me?
+
+120
+00:11:07,480 --> 00:11:10,191
+I only speak English. I'm sorry, what?
+
+121
+00:11:10,274 --> 00:11:11,818
+-What did you say?
+-Come dance!
+
+122
+00:12:05,580 --> 00:12:07,957
+I know exactly who I wanna dance with.
+
+123
+00:12:09,375 --> 00:12:12,003
+-Who will you dance with, Jo?
+-I never dance.
+
+124
+00:12:12,086 --> 00:12:14,213
+Why can't we all go? It's not fair.
+
+125
+00:12:14,297 --> 00:12:17,133
+-Wear your regular shoes.
+-These fit last winter.
+
+126
+00:12:17,216 --> 00:12:19,302
+My nose will not look refined.
+
+127
+00:12:19,385 --> 00:12:21,470
+-I like your nose.
+-Now, Jo.
+
+128
+00:12:21,554 --> 00:12:24,640
+Don't touch me, thanks.
+I already feel ridiculous. I don't wanna look it.
+
+129
+00:12:24,724 --> 00:12:27,351
+-You could be pretty if you tried.
+-Don't want to. Won't do it.
+
+130
+00:12:27,435 --> 00:12:29,812
+I don't want to go, but I wish I could hear the music.
+
+131
+00:12:29,896 --> 00:12:33,274
+-I'll keep it in my head and sing it for you.
+-Ought they to smoke like that?
+
+132
+00:12:33,357 --> 00:12:34,609
+It's the dampness drying.
+
+133
+00:12:34,692 --> 00:12:36,569
+What a queer smell, like burnt feathers.
+
+134
+00:12:36,652 --> 00:12:39,572
+Now I'll take this off and you'll see a perfect ringlet.
+
+135
+00:12:42,533 --> 00:12:43,743
+Why is her hair off?
+
+136
+00:12:43,826 --> 00:12:46,412
+-Meg, I'm so sorry.
+-What have you done?!
+
+137
+00:12:47,413 --> 00:12:50,041
+Sorry. You shouldn't have asked me to do it.
+
+138
+00:12:50,124 --> 00:12:51,709
+Marmee!
+
+139
+00:12:51,792 --> 00:12:53,711
+I can't go, I'm spoiled!
+
+140
+00:12:53,794 --> 00:12:55,463
+My hair!
+
+141
+00:12:55,546 --> 00:12:59,675
+Don't stare, don't put your hands behind your back,
+don't say "Christopher Columbus" or "capital."
+
+142
+00:12:59,759 --> 00:13:02,595
+-All right.
+-Don't shake hands. Don't whistle.
+
+143
+00:13:02,678 --> 00:13:05,473
+Meg March, you look so pretty.
+
+144
+00:13:08,059 --> 00:13:08,893
+Meg.
+
+145
+00:13:25,451 --> 00:13:26,410
+Thank you.
+
+146
+00:13:28,204 --> 00:13:29,914
+No, it's so early. No.
+
+147
+00:13:29,997 --> 00:13:31,123
+Fine.
+
+148
+00:13:47,306 --> 00:13:51,310
+-Sorry. I didn't know anyone was here.
+-Not at all. Stay if you like.
+
+149
+00:13:51,394 --> 00:13:53,855
+-I won't disturb you?
+-No. I don't know many people here.
+
+150
+00:13:53,938 --> 00:13:56,941
+-I felt rather strange at first, you know?
+-So do I.
+
+151
+00:13:57,900 --> 00:14:02,113
+-Miss March, isn't it?
+-Yes, Mr. Laurence, but I'm not Miss March.
+
+152
+00:14:02,196 --> 00:14:05,032
+-I'm only Jo.
+-And I'm not Mr. Laurence, I'm only Laurie.
+
+153
+00:14:10,538 --> 00:14:11,622
+Don't you dance?
+
+154
+00:14:12,039 --> 00:14:15,751
+I don't know how you do things here yet.
+I've spent most of my life in Europe.
+
+155
+00:14:15,835 --> 00:14:17,587
+Europe! Oh, that's capital!
+
+156
+00:14:18,963 --> 00:14:20,756
+Shouldn't use words like that.
+
+157
+00:14:22,008 --> 00:14:25,970
+-Says who?
+-Oh, Meg. She's my older sister. Here.
+
+158
+00:14:30,099 --> 00:14:31,767
+Oh, that's her. See?
+
+159
+00:14:33,728 --> 00:14:35,563
+The girl in the violet dress.
+
+160
+00:14:35,646 --> 00:14:36,647
+It's very pretty.
+
+161
+00:14:38,065 --> 00:14:42,528
+She reminds me to be good,
+so Father will be proud when he returns.
+
+162
+00:14:42,612 --> 00:14:44,030
+Where is he?
+
+163
+00:14:44,113 --> 00:14:46,282
+He volunteered for the Union Army.
+
+164
+00:14:46,365 --> 00:14:51,162
+I wanted to go fight with him.
+I can't get over my disappointment in being a girl.
+
+165
+00:14:52,205 --> 00:14:53,748
+Jo, would you like to dance with me?
+
+166
+00:14:54,332 --> 00:14:56,083
+I can't because...
+
+167
+00:14:56,167 --> 00:14:57,126
+Because of what?
+
+168
+00:15:00,254 --> 00:15:02,423
+-You won't tell?
+-Never.
+
+169
+00:15:04,008 --> 00:15:06,093
+I scorched my dress. See? There.
+
+170
+00:15:06,177 --> 00:15:08,429
+Meg told me to keep still, so no one would see it.
+
+171
+00:15:10,014 --> 00:15:12,183
+You can laugh if you want to. It's funny, I know.
+
+172
+00:15:13,434 --> 00:15:15,311
+I have an idea of how we can manage.
+
+173
+00:16:15,037 --> 00:16:16,789
+-What?
+-My foot.
+
+174
+00:16:16,873 --> 00:16:18,249
+I've hurt my ankle.
+
+175
+00:16:18,332 --> 00:16:19,458
+<i>How am I gonna get home?</i>
+
+176
+00:16:19,542 --> 00:16:22,753
+I don't see what you can do,
+except get a carriage or stay here all night.
+
+177
+00:16:22,837 --> 00:16:25,715
+-Carriages are too expensive.
+-Let me take you. It's right next door.
+
+178
+00:16:25,798 --> 00:16:27,592
+Oh, no, thank you. We cannot accept.
+
+179
+00:16:27,675 --> 00:16:29,510
+You must take mine, please?
+
+180
+00:16:29,594 --> 00:16:32,388
+No. It's so early. You can't mean to leave yet.
+
+181
+00:16:32,471 --> 00:16:34,515
+I always leave early. I do, truly.
+
+182
+00:16:34,599 --> 00:16:36,058
+What choice do you have?
+
+183
+00:16:37,977 --> 00:16:40,438
+-I told you those shoes were too small.
+-Goodness gracious...
+
+184
+00:16:40,521 --> 00:16:41,522
+What have you done?
+
+185
+00:16:41,606 --> 00:16:43,566
+She's lame and can't walk. She's hobbling.
+
+186
+00:16:43,649 --> 00:16:46,444
+Clear that chair. You're supposed to be asleep.
+
+187
+00:16:46,527 --> 00:16:48,488
+All right, help your sister, then back to bed.
+
+188
+00:16:48,571 --> 00:16:50,781
+Make room. Meg is a wounded soldier.
+
+189
+00:16:50,865 --> 00:16:52,450
+I sprained my ankle.
+
+190
+00:16:52,533 --> 00:16:55,953
+Meg, you'll kill yourself for fashion one of these days.
+
+191
+00:16:56,037 --> 00:16:59,373
+Here. Hannah, we need ice!
+
+192
+00:16:59,457 --> 00:17:01,792
+-Oh, come in. Come in.
+-Is it all right?
+
+193
+00:17:01,876 --> 00:17:05,421
+Apologies for the chaos.
+I enjoy baking in the middle of the night.
+
+194
+00:17:05,505 --> 00:17:08,424
+-Don't mind the clutter, Mr. Laurence. We don't.
+-Laurie, please.
+
+195
+00:17:09,049 --> 00:17:11,551
+-Can I call you Teddy?
+-Yes.
+
+196
+00:17:11,636 --> 00:17:14,639
+You must be part of their theatricals.
+They could use an extra player.
+
+197
+00:17:14,722 --> 00:17:16,766
+-I'm Amy.
+-Hello.
+
+198
+00:17:16,848 --> 00:17:19,309
+You'll have to fight Jo for the male roles or play a girl.
+
+199
+00:17:19,393 --> 00:17:21,187
+-Have a scone.
+-Yes, thank you.
+
+200
+00:17:21,270 --> 00:17:22,521
+And ice.
+
+201
+00:17:22,605 --> 00:17:25,982
+-Laurie, how are your ankles? Do you need ice?
+-No, thank you, ma'am.
+
+202
+00:17:26,067 --> 00:17:28,569
+Just call me "mother" or Marmee. Everyone does.
+
+203
+00:17:29,779 --> 00:17:33,324
+-And you wore those pink shoes too, didn't you?
+-It's cold.
+
+204
+00:17:34,367 --> 00:17:37,370
+-Do you want more ice?
+-But they look so good, okay?
+
+205
+00:17:37,453 --> 00:17:40,665
+It feels like being a fine young lady
+to come home from a party in a carriage
+
+206
+00:17:40,748 --> 00:17:42,500
+and have maids wait on me.
+
+207
+00:18:52,236 --> 00:18:54,405
+<i>For the writer in the attic.</i>
+
+208
+00:18:54,489 --> 00:18:57,325
+Because you enjoyed the play so much tonight,
+
+209
+00:18:57,408 --> 00:18:59,076
+I wanted you to have this.
+
+210
+00:19:00,244 --> 00:19:05,208
+It will help you study character and paint it with your pen.
+
+211
+00:19:05,291 --> 00:19:08,920
+<i>I would love to read what you're writing, if you'll trust me.</i>
+
+212
+00:19:09,420 --> 00:19:13,508
+<i>I promise honesty and whatever intelligence I can muster.</i>
+
+213
+00:19:14,050 --> 00:19:16,052
+Yours, Friedrich.
+
+214
+00:19:37,907 --> 00:19:40,409
+-Fred, would you like a glass?
+-I will. Thank you.
+
+215
+00:19:48,000 --> 00:19:49,710
+Would you excuse me a second?
+
+216
+00:19:56,926 --> 00:19:57,760
+Laurie.
+
+217
+00:19:58,845 --> 00:20:00,054
+Amy.
+
+218
+00:20:00,137 --> 00:20:01,681
+I waited an hour for you.
+
+219
+00:20:03,307 --> 00:20:04,559
+I feel caught.
+
+220
+00:20:08,980 --> 00:20:11,232
+Amy, please. Amy.
+
+221
+00:20:11,315 --> 00:20:14,152
+-Do you want to know what I think of you?
+-What do you think of me?
+
+222
+00:20:14,235 --> 00:20:15,862
+-I despise you.
+-Why do you despise me?
+
+223
+00:20:15,945 --> 00:20:18,406
+Because with every chance of being good, happy and useful,
+
+224
+00:20:18,489 --> 00:20:20,992
+you are lazy, faulty and miserable.
+
+225
+00:20:21,075 --> 00:20:23,578
+-Interesting.
+-Selfish people like to talk about themselves.
+
+226
+00:20:23,661 --> 00:20:26,038
+-Am I selfish?
+-Yes, very selfish.
+
+227
+00:20:26,122 --> 00:20:29,876
+-With your money, talent, beauty, and health--
+-Oh, you think I'm beautiful.
+
+228
+00:20:29,959 --> 00:20:31,460
+Yes, you like that, you old vanity.
+
+229
+00:20:31,544 --> 00:20:34,714
+With all these good things to enjoy,
+you can find nothing to do but dawdle.
+
+230
+00:20:35,756 --> 00:20:40,386
+-I'll be good for you, Saint Amy. I'll be good.
+-Aren't you ashamed of a hand like that?
+
+231
+00:20:40,803 --> 00:20:41,721
+No, I'm not.
+
+232
+00:20:41,804 --> 00:20:45,349
+Looks like it's never done a day of work in its life,
+and that ring is ridiculous.
+
+233
+00:20:45,433 --> 00:20:47,018
+Jo gave me this ring.
+
+234
+00:20:48,853 --> 00:20:51,022
+I feel sorry for you. I really do.
+
+235
+00:20:52,190 --> 00:20:53,733
+I just wish you'd bear it better.
+
+236
+00:20:53,816 --> 00:20:56,569
+You don't have to feel sorry.
+You'll feel the same way one day.
+
+237
+00:20:56,652 --> 00:20:59,405
+No, I'd be respected if I couldn't be loved.
+
+238
+00:21:00,531 --> 00:21:04,035
+What have you done lately, oh, great artiste?
+
+239
+00:21:05,328 --> 00:21:08,414
+Perhaps you're fantasizing
+about spending Fred Vaughn's fortune.
+
+240
+00:21:08,498 --> 00:21:10,583
+Fred Vaughn, ladies and gentlemen!
+
+241
+00:21:19,133 --> 00:21:20,801
+Fred, I...
+
+242
+00:21:20,885 --> 00:21:22,011
+I'm so sorry.
+
+243
+00:21:37,819 --> 00:21:39,904
+Those are just stories, of course.
+
+244
+00:21:43,241 --> 00:21:45,326
+But I'm working on a novel.
+
+245
+00:21:46,035 --> 00:21:47,954
+And your novel...
+
+246
+00:21:48,955 --> 00:21:50,331
+it will be like this?
+
+247
+00:21:50,414 --> 00:21:51,249
+Yes.
+
+248
+00:21:51,707 --> 00:21:53,543
+So far, anyway.
+
+249
+00:21:53,626 --> 00:21:55,253
+With plots like this?
+
+250
+00:21:56,629 --> 00:21:59,674
+-Duels and killing and--
+-It sells, so...
+
+251
+00:22:00,716 --> 00:22:04,428
+-Why don't you sign your real name?
+-My mother wouldn't like it.
+
+252
+00:22:06,347 --> 00:22:08,391
+It's too gory for her.
+
+253
+00:22:08,474 --> 00:22:11,102
+I wanna help with the money I make, not worry her.
+
+254
+00:22:21,946 --> 00:22:24,282
+You know, I don't like them.
+
+255
+00:22:26,617 --> 00:22:27,660
+Honestly...
+
+256
+00:22:28,786 --> 00:22:31,539
+I mean, I think that they're not good.
+
+257
+00:22:38,462 --> 00:22:39,297
+But...
+
+258
+00:22:40,590 --> 00:22:41,507
+They're...
+
+259
+00:22:43,593 --> 00:22:45,511
+They're published in the papers,
+
+260
+00:22:45,595 --> 00:22:48,764
+and people have always said that I'm talented.
+
+261
+00:22:48,848 --> 00:22:51,100
+Oh, I think you're talented.
+
+262
+00:22:51,184 --> 00:22:53,978
+Which is why I'm being so... So blunt.
+
+263
+00:22:56,230 --> 00:22:59,609
+Well, I can't afford to starve on praise.
+
+264
+00:22:59,692 --> 00:23:01,736
+Are you upset?
+
+265
+00:23:01,819 --> 00:23:03,654
+Of course I'm upset. You just--
+
+266
+00:23:03,738 --> 00:23:07,074
+-You just told me you didn't like my work.
+-Jo, I thought you wanted honesty.
+
+267
+00:23:07,158 --> 00:23:09,202
+I-- Yes, I do.
+
+268
+00:23:10,286 --> 00:23:13,080
+Has no one ever talked to you like this before?
+
+269
+00:23:14,248 --> 00:23:15,958
+Yes, I've been rejected plenty of times.
+
+270
+00:23:16,042 --> 00:23:20,254
+Do you have anyone to take you seriously, Jo,
+to talk about your work?
+
+271
+00:23:20,338 --> 00:23:23,257
+And who made you high priest
+of what's good and what's bad?
+
+272
+00:23:23,341 --> 00:23:26,093
+-No one, and I'm not--
+-Then why are you acting like it?
+
+273
+00:23:26,177 --> 00:23:28,679
+Your reaction indicates
+that you must think there is some truth...
+
+274
+00:23:28,763 --> 00:23:32,225
+My reaction indicates that you are a pompous blowhard.
+
+275
+00:23:32,308 --> 00:23:33,726
+Shakespeare wrote for the masses.
+
+276
+00:23:33,809 --> 00:23:37,897
+Shakespeare was the greatest poet who ever lived
+because he smuggled his poetry in popular works.
+
+277
+00:23:37,980 --> 00:23:41,567
+-I'm no Shakespeare.
+-Thank goodness. We already have him.
+
+278
+00:23:41,651 --> 00:23:44,862
+If you know so much about it,
+then why don't you just do it yourself?
+
+279
+00:23:44,946 --> 00:23:47,281
+Because I'm not a writer.
+
+280
+00:23:47,365 --> 00:23:50,284
+-I don't have the gifts you have.
+-No, you don't.
+
+281
+00:23:50,368 --> 00:23:53,037
+You will always be a critic, never an author.
+
+282
+00:23:53,120 --> 00:23:55,915
+The world will forget that you ever even lived.
+
+283
+00:23:55,998 --> 00:23:58,459
+-Oh, I'm sure they will.
+-But...
+
+284
+00:23:58,543 --> 00:23:59,710
+I-- But I...
+
+285
+00:24:01,504 --> 00:24:03,297
+No one will forget Jo March.
+
+286
+00:24:07,718 --> 00:24:09,679
+I can believe it.
+
+287
+00:24:09,762 --> 00:24:10,847
+Listen.
+
+288
+00:24:10,930 --> 00:24:14,016
+We are not friends. You are not my friend.
+
+289
+00:24:15,017 --> 00:24:18,646
+I don't want your opinion because I don't like you very much.
+
+290
+00:24:18,729 --> 00:24:21,357
+So just don't talk to me anymore. Thank you.
+
+291
+00:24:40,960 --> 00:24:43,629
+Oh, Josephine, this came for you.
+
+292
+00:24:43,713 --> 00:24:44,881
+Oh, thank you.
+
+293
+00:24:54,056 --> 00:24:54,974
+Beth.
+
+294
+00:25:38,476 --> 00:25:40,186
+Merry Christmas, world.
+
+295
+00:25:45,817 --> 00:25:47,443
+Merry Christmas!
+
+296
+00:25:47,527 --> 00:25:50,154
+-Merry Christmas.
+-Beth, give me another orange.
+
+297
+00:25:50,238 --> 00:25:52,740
+-Jo, we've been up for hours.
+-What have you been writing?
+
+298
+00:25:52,824 --> 00:25:55,993
+Oh, I got carried away
+with our delicious revenge play last night, <i>Poison.</i>
+
+299
+00:25:56,077 --> 00:25:58,120
+No, no poison. It's Christmas.
+
+300
+00:25:58,204 --> 00:26:01,582
+-Christmas won't be Christmas without any presents.
+-It's so dreadful being poor.
+
+301
+00:26:01,666 --> 00:26:05,253
+It's not fair. How come some girls have pretty things
+and others have nothing at all?
+
+302
+00:26:05,336 --> 00:26:09,507
+-We have Father, Mother and each other.
+-We haven't got Father for as long as this war drags on.
+
+303
+00:26:09,590 --> 00:26:13,094
+I wish I had heaps of money and plenty of servants,
+so I never had to work again.
+
+304
+00:26:13,177 --> 00:26:16,597
+Or you could be a proper actress on the boards.
+They aren't all fallen women.
+
+305
+00:26:16,681 --> 00:26:18,140
+I can't be an actress.
+
+306
+00:26:18,224 --> 00:26:21,185
+I have lots of wishes,
+but my favorite one is to be an artist in Paris
+
+307
+00:26:21,269 --> 00:26:23,980
+and to do fine pictures and to be the best painter in the world.
+
+308
+00:26:24,063 --> 00:26:26,524
+That's what you want too, isn't it, Jo? Be a famous writer?
+
+309
+00:26:26,607 --> 00:26:29,861
+-Yes, but it sounds crass when she says it.
+-Why be ashamed of what you want?
+
+310
+00:26:29,944 --> 00:26:33,197
+My wish is to have us all to be together
+with Father and Mother in this house.
+
+311
+00:26:33,281 --> 00:26:35,533
+-That's what I want.
+-Beth is perfect.
+
+312
+00:26:35,616 --> 00:26:37,577
+-Amy.
+-What about your music, Queen Beth, huh?
+
+313
+00:26:37,660 --> 00:26:41,455
+-I do that for us. I don't need anyone else to hear it.
+-You must not limit yourself.
+
+314
+00:26:41,539 --> 00:26:45,585
+Mother proposed not having any presents this year
+because our men are suffering in the Army.
+
+315
+00:26:45,668 --> 00:26:49,130
+We can't do much, but we can make
+our little sacrifices and do it gladly.
+
+316
+00:26:49,213 --> 00:26:51,924
+Don't play mother just because she's not home.
+
+317
+00:26:52,008 --> 00:26:54,719
+-Jo, that's so boyish.
+-That's why I do it.
+
+318
+00:26:54,802 --> 00:26:58,264
+-I detest rude, unladylike girls.
+-I hate affected little chits.
+
+319
+00:26:58,347 --> 00:27:00,892
+-Jo!
+-My nose! My nose!
+
+320
+00:27:00,975 --> 00:27:03,019
+It's already no good!
+
+321
+00:27:03,102 --> 00:27:04,353
+Jo! Jo!
+
+322
+00:27:04,437 --> 00:27:08,608
+I know you don't care what I think,
+but you don't want your mother to find you like this, do you?
+
+323
+00:27:08,691 --> 00:27:12,028
+-We care what you think, Hannah.
+-You're more family than wicked old Aunt March.
+
+324
+00:27:12,111 --> 00:27:14,071
+-Oh, don't, Jo.
+-Where is Marmee? I'm starving.
+
+325
+00:27:14,155 --> 00:27:17,074
+Goodness only knows. Some poor creature came a-begging.
+
+326
+00:27:17,158 --> 00:27:19,619
+Your ma set off to see what was needed.
+
+327
+00:27:19,702 --> 00:27:24,290
+-I wish she could help others at a time convenient to us.
+-Joanna and I are very hungry.
+
+328
+00:27:24,373 --> 00:27:25,958
+Dolls don't get hungry, Beth.
+
+329
+00:27:26,042 --> 00:27:29,295
+I've rewritten the climax.
+We need to set it to memory. Amy, get the costumes.
+
+330
+00:27:29,378 --> 00:27:31,422
+I have made the most divine crown,
+
+331
+00:27:31,506 --> 00:27:34,383
+and I painted my old shoes blue,
+so she looks like a princess!
+
+332
+00:27:34,467 --> 00:27:38,262
+-The melancholy piece I've figured out is pretty good.
+-Wait until you see this new speech.
+
+333
+00:27:38,346 --> 00:27:42,099
+I don't see how you can write such splendid things, Jo.
+You're a regular Shakespeare.
+
+334
+00:27:42,183 --> 00:27:45,645
+Not quite. Miss Michelangelo,
+can you please rehearse the fainting scene?
+
+335
+00:27:45,728 --> 00:27:47,688
+-You're as stiff as a poker.
+-I can't help it.
+
+336
+00:27:47,772 --> 00:27:51,484
+I never saw anyone faint before.
+I don't intend to make myself all black and blue.
+
+337
+00:27:51,567 --> 00:27:53,194
+If I can fall down easily, I'll drop.
+
+338
+00:27:53,277 --> 00:27:55,863
+And if I cannot, I shall fall gracefully into a chair.
+
+339
+00:27:55,947 --> 00:27:58,658
+And I don't care if Hugo comes at me with a pistol.
+
+340
+00:27:59,075 --> 00:28:00,409
+-Hannah?
+-I'm not acting.
+
+341
+00:28:00,493 --> 00:28:03,996
+-I didn't even say anything.
+-I knew what you were going to say, and I'm not acting.
+
+342
+00:28:13,631 --> 00:28:17,218
+I need both of you to kneel right there.
+
+343
+00:28:17,301 --> 00:28:19,262
+-I need you to kneel.
+-I don't want to kneel.
+
+344
+00:28:19,345 --> 00:28:22,807
+This is supposed to be our special scene,
+and no one's gonna be looking at us.
+
+345
+00:28:22,890 --> 00:28:24,308
+-Smile.
+-I don't want to.
+
+346
+00:28:24,392 --> 00:28:26,978
+You have to. And I think Meg should be the director.
+
+347
+00:28:27,061 --> 00:28:29,438
+So I think that she'll need to kneel...
+
+348
+00:28:29,522 --> 00:28:31,691
+-But it's our scene.
+-If you'll kneel and look...
+
+349
+00:28:31,774 --> 00:28:33,234
+Merry Christmas, girls.
+
+350
+00:28:33,317 --> 00:28:35,403
+-Marmee!
+-Oh, merry Christmas!
+
+351
+00:28:35,486 --> 00:28:39,031
+I'm so glad to see you so happy. How's your play?
+
+352
+00:28:39,115 --> 00:28:41,951
+Jo, you look tired. Were you up again all night writing?
+
+353
+00:28:42,034 --> 00:28:44,453
+-Of course.
+-Amy, come kiss me. Thank you.
+
+354
+00:28:45,538 --> 00:28:46,998
+Merry Christmas. How are my girls?
+
+355
+00:28:47,081 --> 00:28:48,666
+-I'm so hungry.
+-Look at this.
+
+356
+00:28:48,749 --> 00:28:51,169
+-I could eat a horse.
+-Don't say that, Jo.
+
+357
+00:28:53,171 --> 00:28:54,005
+What?
+
+358
+00:28:55,840 --> 00:28:56,757
+What is it?
+
+359
+00:28:57,925 --> 00:29:00,845
+Not far from here lives a poor young woman, Mrs. Hummel.
+
+360
+00:29:00,928 --> 00:29:05,766
+Her five children are in one bed
+to keep from freezing, and there's nothing to eat.
+
+361
+00:29:05,850 --> 00:29:09,228
+Will you give them your breakfast as a Christmas present?
+
+362
+00:29:14,233 --> 00:29:16,569
+Is this where you say that Father would want us to?
+
+363
+00:29:17,612 --> 00:29:18,488
+Yes.
+
+364
+00:29:29,582 --> 00:29:31,167
+Thank you.
+
+365
+00:29:31,250 --> 00:29:34,670
+And thank you, Mr. Laurence, for including me.
+
+366
+00:29:34,754 --> 00:29:35,838
+You're welcome.
+
+367
+00:29:40,426 --> 00:29:43,638
+Perhaps you could tutor my grandson in manners,
+
+368
+00:29:43,721 --> 00:29:45,723
+as well as mathematics, huh?
+
+369
+00:29:53,523 --> 00:29:54,649
+Oh, girls...
+
+370
+00:29:57,235 --> 00:29:58,194
+Be careful.
+
+371
+00:30:01,656 --> 00:30:03,699
+Watch yourselves.
+
+372
+00:30:03,783 --> 00:30:05,618
+Out here with no sleeves.
+
+373
+00:30:20,842 --> 00:30:23,052
+It is good angels come to us.
+
+374
+00:30:25,513 --> 00:30:26,806
+Hello.
+
+375
+00:30:26,889 --> 00:30:30,142
+I'm back. And have food and blankets.
+
+376
+00:30:30,226 --> 00:30:31,602
+And sweaters.
+
+377
+00:30:31,686 --> 00:30:33,437
+And we brought some medicine.
+
+378
+00:30:33,521 --> 00:30:35,273
+So these are my girls.
+
+379
+00:30:35,356 --> 00:30:36,440
+Say hello.
+
+380
+00:30:36,524 --> 00:30:37,608
+He is not well.
+
+381
+00:30:38,693 --> 00:30:40,653
+Girls, why don't you unpack the food?
+
+382
+00:30:41,154 --> 00:30:42,363
+Would you like some?
+
+383
+00:30:46,450 --> 00:30:47,493
+You want one?
+
+384
+00:30:48,411 --> 00:30:49,579
+Yeah, have it all.
+
+385
+00:30:49,662 --> 00:30:51,914
+-Why don't we put some firewood?
+-It's good, isn't it?
+
+386
+00:30:55,626 --> 00:30:56,794
+That's nice, huh?
+
+387
+00:31:02,675 --> 00:31:05,928
+-Marmee, we don't need our toes.
+-I think I've lost one.
+
+388
+00:31:06,012 --> 00:31:07,847
+Has anyone else lost their toe?
+
+389
+00:31:09,765 --> 00:31:13,060
+-That was amazing.
+-I can't even feel my feet anymore.
+
+390
+00:31:14,854 --> 00:31:16,814
+Is it fairies?
+
+391
+00:31:16,898 --> 00:31:18,024
+Santa Claus.
+
+392
+00:31:18,107 --> 00:31:20,610
+-No, it's old Aunt March.
+-Mr. Laurence sent it.
+
+393
+00:31:20,693 --> 00:31:23,112
+-The Laurence boy's grandfather?
+-Yes.
+
+394
+00:31:23,196 --> 00:31:24,030
+Why?
+
+395
+00:31:24,113 --> 00:31:27,867
+He saw you giving your Christmas breakfast away
+and he wanted you to enjoy the day.
+
+396
+00:31:27,950 --> 00:31:30,745
+-But I thought he was a mean old man.
+-It's so generous of him.
+
+397
+00:31:30,828 --> 00:31:33,998
+His grandson, Laurie,
+put the idea into his head. I know he did.
+
+398
+00:31:34,081 --> 00:31:36,000
+We should make friends with him.
+
+399
+00:31:36,083 --> 00:31:39,295
+Boys scare me, and that big old house scares me.
+
+400
+00:31:39,378 --> 00:31:43,466
+Jenny Snow says that Mr. Laurence disowned his son
+after he went off with an Italian woman.
+
+401
+00:31:43,549 --> 00:31:45,343
+Now his grandson is an orphan
+
+402
+00:31:45,426 --> 00:31:48,262
+and spends all of his time in that house,
+locked up with his tutor.
+
+403
+00:31:48,346 --> 00:31:52,225
+He's a very kind man who lost his little girl
+when she was only a child.
+
+404
+00:31:52,308 --> 00:31:54,185
+-Now his son as well.
+-His daughter died?
+
+405
+00:31:54,268 --> 00:31:57,897
+-That's so sad.
+-But doesn't Laurie just seem so romantic? He's half Italian.
+
+406
+00:31:57,980 --> 00:31:59,899
+What do you know? You've barely spoken to him.
+
+407
+00:31:59,982 --> 00:32:03,778
+I'm not responsible for this feast, but I have got a surprise.
+
+408
+00:32:04,195 --> 00:32:05,947
+-Is he coming home?
+-A letter from Father!
+
+409
+00:32:06,531 --> 00:32:08,157
+Don't I wish I could go?
+
+410
+00:32:08,241 --> 00:32:10,493
+Jo, we can't give up our only brother.
+
+411
+00:32:10,576 --> 00:32:12,578
+It must be so disagreeable to sleep in a tent.
+
+412
+00:32:12,662 --> 00:32:15,456
+-Jo sits in the back, so we can't see her cry.
+-So, what if I do?
+
+413
+00:32:15,540 --> 00:32:19,085
+-Will he be coming home?
+-He'll stay and work faithfully as long as he can.
+
+414
+00:32:19,168 --> 00:32:22,672
+And we won't ask for him to come back
+a minute sooner than he can be spared.
+
+415
+00:32:24,382 --> 00:32:26,759
+"Give them all my dear love and a kiss.
+
+416
+00:32:26,843 --> 00:32:30,763
+Tell them I think of them by day, pray for them by night
+
+417
+00:32:30,847 --> 00:32:33,933
+and find my best comforts in their affection at all times.
+
+418
+00:32:34,016 --> 00:32:37,478
+A year seems a very long time to wait before I see them.
+
+419
+00:32:37,854 --> 00:32:42,817
+But remind them that while we wait,
+we may all work, so these hard days...
+
+420
+00:32:42,900 --> 00:32:44,777
+need not be wasted.
+
+421
+00:32:45,486 --> 00:32:48,322
+<i>I know that they will be loving children to you.</i>
+
+422
+00:32:49,657 --> 00:32:51,409
+<i>Do their duty faithfully.</i>
+
+423
+00:32:52,618 --> 00:32:54,412
+<i>Fight their enemies bravely.</i>
+
+424
+00:32:56,289 --> 00:32:58,958
+<i>And conquer themselves so beautifully."</i>
+
+425
+00:32:59,041 --> 00:33:01,961
+<i>The Witch's Curse, a</i> play by Jo March.
+
+426
+00:33:02,044 --> 00:33:06,257
+Make it sweet and swift and strong...
+
+427
+00:33:06,340 --> 00:33:10,261
+<i>-"That when I come back to them..."
+</i>-Spirit, answer now my song.
+
+428
+00:33:10,344 --> 00:33:11,345
+<i>"...I may be...</i>
+
+429
+00:33:12,847 --> 00:33:15,558
+<i>fonder and prouder than ever...</i>
+
+430
+00:33:17,143 --> 00:33:18,769
+<i>of my little women."</i>
+
+431
+00:33:20,313 --> 00:33:21,647
+Brava!
+
+432
+00:33:25,318 --> 00:33:27,862
+Excuse me. Excuse me.
+
+433
+00:33:28,571 --> 00:33:30,656
+Excuse me. Your stop, ma'am.
+
+434
+00:33:30,740 --> 00:33:32,825
+Oh, thank you.
+
+435
+00:33:32,909 --> 00:33:34,869
+<i>She's gone? Why?</i>
+
+436
+00:33:34,952 --> 00:33:37,246
+I don't know. She just left.
+
+437
+00:33:37,330 --> 00:33:41,083
+-But she didn't say if she was coming back?
+-We didn't have a heart-to-heart, professor.
+
+438
+00:33:41,167 --> 00:33:44,837
+Why are you just sitting there?
+Please, go, go. Dust something.
+
+439
+00:33:44,921 --> 00:33:47,882
+And what about the girls?
+She was the best teacher they ever had.
+
+440
+00:33:47,965 --> 00:33:48,966
+I know.
+
+441
+00:34:00,770 --> 00:34:04,023
+<i>It is so hard to go back to work after such good times.</i>
+
+442
+00:34:04,106 --> 00:34:07,360
+-I wish it was Christmas every day.
+-Or New Year's. Wouldn't that be exciting?
+
+443
+00:34:07,443 --> 00:34:09,570
+We are a bunch of ungrateful minxes.
+
+444
+00:34:09,654 --> 00:34:13,241
+-Jo! Don't say such despicable things.
+-I like good, strong words that mean something.
+
+445
+00:34:13,324 --> 00:34:16,118
+-I have to go back to school, and I don't have any limes.
+-Limes?
+
+446
+00:34:16,202 --> 00:34:20,331
+All the girls are trading pickled limes,
+and I'm in debt. I owe ever so many limes.
+
+447
+00:34:20,414 --> 00:34:22,041
+-Will this do?
+-What'd you do that for?
+
+448
+00:34:22,123 --> 00:34:23,333
+Meg, thank you.
+
+449
+00:34:23,417 --> 00:34:26,920
+I know what it is to want little things
+and feel less than other girls.
+
+450
+00:34:27,004 --> 00:34:29,340
+-That and the drawings will wipe out my debt.
+-Drawings?
+
+451
+00:34:29,423 --> 00:34:32,717
+Nothing. I'm just glad Mother doesn't
+make me go to school with those girls.
+
+452
+00:34:32,802 --> 00:34:34,011
+Hurry. I'll be late.
+
+453
+00:34:34,094 --> 00:34:37,807
+Beth, after your shopping, I need you to work your way
+through the new sums and spelling.
+
+454
+00:34:37,889 --> 00:34:40,101
+-I'll check it all when I get home, all right?
+-Fine.
+
+455
+00:34:40,184 --> 00:34:41,101
+Bye.
+
+456
+00:35:02,373 --> 00:35:04,125
+-Josephine.
+-Yes?
+
+457
+00:35:05,626 --> 00:35:07,670
+-Josephine.
+-Yes? Here.
+
+458
+00:35:08,754 --> 00:35:11,549
+Is there a reason you stopped reading Belsham?
+
+459
+00:35:11,632 --> 00:35:12,717
+I'm sorry.
+
+460
+00:35:12,800 --> 00:35:13,843
+I'll continue.
+
+461
+00:35:15,511 --> 00:35:17,013
+You mind yourself, deary.
+
+462
+00:35:17,096 --> 00:35:20,892
+Someday you'll need me
+and you'll wish you had behaved better.
+
+463
+00:35:20,975 --> 00:35:23,853
+Thank you, Aunt March, for your employment
+and your many kindnesses,
+
+464
+00:35:23,936 --> 00:35:26,355
+but I intend to make my way in the world.
+
+465
+00:35:26,439 --> 00:35:27,940
+Oh, well.
+
+466
+00:35:28,024 --> 00:35:30,568
+No. No one makes their own way.
+
+467
+00:35:30,651 --> 00:35:32,153
+Not really.
+
+468
+00:35:32,236 --> 00:35:35,406
+Least of all, a woman. You'll need to marry well.
+
+469
+00:35:35,490 --> 00:35:38,284
+-But you are not married.
+-That's because I'm rich.
+
+470
+00:35:38,367 --> 00:35:40,620
+And I made sure to keep hold of my money.
+
+471
+00:35:41,037 --> 00:35:43,122
+Unlike your father.
+
+472
+00:35:43,206 --> 00:35:46,167
+So the only way to be an unmarried woman is to be rich?
+
+473
+00:35:46,250 --> 00:35:47,084
+Yes.
+
+474
+00:35:47,168 --> 00:35:50,838
+-There are precious few ways for women to make money.
+-That's not true.
+
+475
+00:35:50,922 --> 00:35:52,715
+You could run a cathouse.
+
+476
+00:35:52,798 --> 00:35:54,926
+Or go on the stage.
+
+477
+00:35:55,009 --> 00:35:57,136
+Practically the same thing.
+
+478
+00:35:57,220 --> 00:35:59,305
+Other than that, you're right.
+
+479
+00:35:59,388 --> 00:36:01,516
+Precious few ways for women.
+
+480
+00:36:01,599 --> 00:36:04,810
+-That's why you should heed me.
+-So I can get married.
+
+481
+00:36:04,894 --> 00:36:09,273
+No. So you can live a better life than your poor mother has.
+
+482
+00:36:09,357 --> 00:36:12,902
+-But Marmee loves her life.
+-You don't know what she loves.
+
+483
+00:36:14,529 --> 00:36:19,408
+Your father cared more about educating freedmen's children
+than he did about caring for his own family.
+
+484
+00:36:19,492 --> 00:36:20,993
+Yes, but he was right.
+
+485
+00:36:21,077 --> 00:36:24,372
+Well, it's possible to be right and foolish.
+
+486
+00:36:24,455 --> 00:36:25,832
+Well, I don't think so.
+
+487
+00:36:25,915 --> 00:36:27,792
+Well, you're not paid to think.
+
+488
+00:36:33,422 --> 00:36:36,217
+I know you don't care much about marriage now.
+
+489
+00:36:38,678 --> 00:36:40,096
+Can't say I blame you.
+
+490
+00:36:42,348 --> 00:36:48,479
+But I intend to go to Europe one more time
+and I need a companion,
+
+491
+00:36:48,563 --> 00:36:50,773
+so how would you like to be the person I take?
+
+492
+00:36:51,149 --> 00:36:54,485
+-I'd like that more than anything.
+-All right, then read.
+
+493
+00:36:55,194 --> 00:36:57,113
+And don't sneak around.
+
+494
+00:36:57,905 --> 00:36:59,615
+I don't like sneaks.
+
+495
+00:37:02,577 --> 00:37:03,494
+<i>President Lincoln.</i>
+
+496
+00:37:03,578 --> 00:37:05,121
+No, Father's fighting for him.
+
+497
+00:37:05,204 --> 00:37:08,875
+My father says the war is a waste
+and we should just let them keep their labor.
+
+498
+00:37:08,958 --> 00:37:10,418
+Susan, it is immoral.
+
+499
+00:37:10,501 --> 00:37:13,546
+Everyone benefited from the system, including you Marches.
+
+500
+00:37:13,629 --> 00:37:16,674
+-Why should only the South be punished?
+-Maybe we should all be punished.
+
+501
+00:37:16,757 --> 00:37:20,428
+-The Marches love a cause.
+-Fine. Just do Mr. Davis.
+
+502
+00:37:22,722 --> 00:37:27,143
+-I don't know if I should.
+-I'll wipe out your debt and give you five limes.
+
+503
+00:37:27,226 --> 00:37:29,937
+...your spelling and, moreover, your reading habit.
+
+504
+00:37:44,577 --> 00:37:45,745
+Miss March.
+
+505
+00:37:48,873 --> 00:37:49,874
+<i>Sit down.</i>
+
+506
+00:37:51,334 --> 00:37:53,211
+Sit down, Laurie.
+
+507
+00:37:53,711 --> 00:37:55,421
+Latin is a privilege.
+
+508
+00:37:55,505 --> 00:37:57,298
+Please, you have to learn this.
+
+509
+00:37:57,381 --> 00:38:00,134
+I can't afford to lose this position. Just return to the Cicero--
+
+510
+00:38:00,218 --> 00:38:02,386
+-There's a girl out there.
+-No, there is not.
+
+511
+00:38:02,470 --> 00:38:05,473
+-Yes, Mr. Brooke, there is a girl.
+-No, there's not.
+
+512
+00:38:11,395 --> 00:38:13,648
+I'll never get to go home again.
+
+513
+00:38:13,731 --> 00:38:15,691
+-There is a girl.
+-That's a girl.
+
+514
+00:38:17,443 --> 00:38:19,320
+Hello there. Are you hurt?
+
+515
+00:38:19,403 --> 00:38:22,156
+-I'm Amy.
+-Hello, Amy. I'm Laurie.
+
+516
+00:38:22,240 --> 00:38:24,784
+I know. You brought my sister back after the dance.
+
+517
+00:38:24,867 --> 00:38:26,953
+I would've never have sprained my ankle.
+
+518
+00:38:27,036 --> 00:38:29,956
+I have lovely small feet, the best in the family.
+
+519
+00:38:30,039 --> 00:38:34,502
+But I can never go home again because I'm in such trouble.
+
+520
+00:38:34,877 --> 00:38:36,295
+Look.
+
+521
+00:38:36,879 --> 00:38:38,798
+Mr. Davis hit me.
+
+522
+00:38:41,926 --> 00:38:45,304
+Tell the servants I want this painting purchased for me.
+
+523
+00:38:45,388 --> 00:38:47,932
+-Amy! Are you in here?
+-Meg! My hand. Look.
+
+524
+00:38:48,015 --> 00:38:49,517
+-Jo.
+-What richness.
+
+525
+00:38:49,600 --> 00:38:50,935
+It hurts so much.
+
+526
+00:38:51,018 --> 00:38:53,229
+You ought to be the happiest boy in the world.
+
+527
+00:38:53,312 --> 00:38:55,231
+-A fellow can't live on books alone.
+-I could.
+
+528
+00:38:55,314 --> 00:38:59,026
+-What did you do?
+-I did a drawing, and then Mr. Davis hit me.
+
+529
+00:38:59,110 --> 00:39:01,863
+-Oh, Christopher Columbus, look at that.
+-That's my grandfather.
+
+530
+00:39:01,946 --> 00:39:04,323
+-Are you scared of him?
+-No, I'm not scared of anyone.
+
+531
+00:39:04,407 --> 00:39:07,160
+He looks stern,
+but my grandfather was much more handsome.
+
+532
+00:39:07,243 --> 00:39:09,036
+Jo, we do not compare grandfathers.
+
+533
+00:39:09,120 --> 00:39:11,080
+You think he's more handsome, eh?
+
+534
+00:39:12,123 --> 00:39:16,335
+-No, actually, you are very handsome. I didn't mean--
+-I knew your mother's father.
+
+535
+00:39:16,752 --> 00:39:18,337
+You've got his spirit.
+
+536
+00:39:18,963 --> 00:39:21,215
+Oh, well, thank you, sir.
+
+537
+00:39:23,885 --> 00:39:27,513
+-You are not to attend that school anymore.
+-Good. That man has always been an idiot.
+
+538
+00:39:27,597 --> 00:39:30,141
+-Jo will teach you.
+-Me? I already teach Beth.
+
+539
+00:39:30,224 --> 00:39:31,225
+You're a good teacher.
+
+540
+00:39:31,309 --> 00:39:34,312
+Yes, women being taught at home
+is much more proper, I believe.
+
+541
+00:39:34,395 --> 00:39:38,024
+-Only because the schools for women are so poor.
+-Indeed. Quite right.
+
+542
+00:39:38,107 --> 00:39:40,902
+I wish all the girls would leave his school
+and that he would die.
+
+543
+00:39:40,985 --> 00:39:45,198
+-Amy, you did wrong and there will be consequences.
+-I didn't even do anything. I just did a drawing.
+
+544
+00:39:45,281 --> 00:39:48,951
+-Thank you so much for taking care of Amy.
+-Oh, yes, of course.
+
+545
+00:39:49,035 --> 00:39:51,704
+My girls have a way of getting into mischief.
+
+546
+00:39:51,787 --> 00:39:52,997
+Well, so do I.
+
+547
+00:39:53,080 --> 00:39:55,416
+Then you'll run over and we'll take care of you.
+
+548
+00:39:55,500 --> 00:39:57,919
+Come over whenever you'd like. Invite Beth as well.
+
+549
+00:39:58,002 --> 00:40:01,255
+-Yes! Beth would adore the piano.
+-Is she the quiet one?
+
+550
+00:40:01,339 --> 00:40:02,673
+Yes, that's our Beth.
+
+551
+00:40:02,757 --> 00:40:05,343
+-Tell that little girl to use our piano.
+-Thank you.
+
+552
+00:40:05,426 --> 00:40:07,136
+Jo, borrow whatever book you'd like.
+
+553
+00:40:07,220 --> 00:40:09,055
+-Can I come look at the paintings?
+-Yes.
+
+554
+00:40:09,138 --> 00:40:10,848
+There's also a lovely greenhouse.
+
+555
+00:40:12,308 --> 00:40:13,559
+We must go. Girls.
+
+556
+00:40:13,643 --> 00:40:18,022
+-Mr. Laurence, can you please buy this painting?
+-I'm going to take this. If that's okay.
+
+557
+00:40:18,105 --> 00:40:20,525
+-I'll bring it back soon. I promise you.
+-Thank you again.
+
+558
+00:40:20,608 --> 00:40:21,943
+Thank you for my hand!
+
+559
+00:40:22,026 --> 00:40:23,528
+-Thank you!
+-Goodbye.
+
+560
+00:40:27,198 --> 00:40:28,658
+Oh, Miss Meg?
+
+561
+00:40:29,116 --> 00:40:30,743
+You forgot your glove.
+
+562
+00:40:38,626 --> 00:40:41,671
+Well, back to work.
+
+563
+00:40:41,754 --> 00:40:42,922
+Back to work.
+
+564
+00:40:58,938 --> 00:41:00,022
+Order!
+
+565
+00:41:00,106 --> 00:41:03,359
+Order. Order. Order!
+
+566
+00:41:03,442 --> 00:41:08,531
+A new play written by Miss Jo March
+will appear at the Barnville Theater
+
+567
+00:41:08,614 --> 00:41:11,701
+in the course of the next few weeks that will surpass
+
+568
+00:41:11,784 --> 00:41:15,663
+anything ever seen before on the American stage.
+
+569
+00:41:15,746 --> 00:41:20,459
+Starring the greatest actress from here
+to the Mississippi River, Miss Meg March.
+
+570
+00:41:20,543 --> 00:41:23,546
+Yes. There we go. Very good. Excellent. Bravo.
+
+571
+00:41:23,629 --> 00:41:26,549
+Weekly report. Meg good, Jo bad.
+
+572
+00:41:27,091 --> 00:41:30,595
+Beth very good. And Amy sort of middling.
+
+573
+00:41:30,678 --> 00:41:32,763
+-Very well done, sirs.
+-Excellent.
+
+574
+00:41:32,847 --> 00:41:34,932
+-Excellent, excellent.
+-Bravo.
+
+575
+00:41:35,016 --> 00:41:36,851
+Mr. President and gentlemen,
+
+576
+00:41:36,934 --> 00:41:39,896
+I wish to propose the admission of a new member.
+
+577
+00:41:39,979 --> 00:41:43,357
+One who would be deeply, deeply grateful
+
+578
+00:41:43,441 --> 00:41:48,362
+and would add immensely to the spirit of the club.
+
+579
+00:41:48,446 --> 00:41:49,864
+I propose...
+
+580
+00:41:51,324 --> 00:41:54,368
+Mr. Theodore Laurence!
+
+581
+00:41:55,244 --> 00:41:56,704
+-Absolutely not.
+-No.
+
+582
+00:41:56,787 --> 00:41:59,832
+-What? Come, now. Let's have him.
+-He's a real boy.
+
+583
+00:41:59,916 --> 00:42:02,877
+-We don't want any boys. This is a club for ladies.
+-Yes.
+
+584
+00:42:02,960 --> 00:42:04,295
+-I think we should do it.
+-Why?
+
+585
+00:42:04,378 --> 00:42:06,297
+-Even if we are afraid, I say yes.
+-Why?
+
+586
+00:42:06,380 --> 00:42:07,840
+-It's Laurie.
+-What? No.
+
+587
+00:42:07,924 --> 00:42:09,091
+It'll change everything.
+
+588
+00:42:09,175 --> 00:42:11,511
+I call a vote. Put your hands up. "Aye, aye, aye."
+
+589
+00:42:11,594 --> 00:42:14,305
+-Don't put her hand up.
+-Put your hand up. It's Laurie.
+
+590
+00:42:14,388 --> 00:42:15,640
+Fine. Aye.
+
+591
+00:42:15,723 --> 00:42:17,600
+And as there is no time like the present...
+
+592
+00:42:19,018 --> 00:42:21,354
+Ladies, ladies, please, please.
+
+593
+00:42:21,437 --> 00:42:26,567
+This is my stratagem. I deserve the blame.
+Jo only gave in to it after lots of teasing.
+
+594
+00:42:26,651 --> 00:42:28,027
+-Yes.
+-Yes, yes.
+
+595
+00:42:28,110 --> 00:42:32,532
+I merely wish to say as a slight token of my gratitude that I...
+
+596
+00:42:34,325 --> 00:42:35,368
+-Yes, yes.
+-Go on.
+
+597
+00:42:35,451 --> 00:42:40,081
+As a means of promoting friendly relations
+between adjoining nations.
+
+598
+00:42:40,164 --> 00:42:43,125
+And thus, I propose this set of keys
+
+599
+00:42:43,209 --> 00:42:47,922
+for a little post office I've made in the forest by the pond.
+
+600
+00:42:48,005 --> 00:42:50,842
+Yes, four keys. They're for you, darling.
+
+601
+00:42:50,925 --> 00:42:54,929
+-Meg, yes, yes. And for you.
+-Oh, thank you very much.
+
+602
+00:42:55,012 --> 00:42:57,807
+This is for me. And without further ado,
+thank you for your favor.
+
+603
+00:42:57,890 --> 00:42:59,934
+I will take my seat as part of the club.
+
+604
+00:43:02,103 --> 00:43:06,983
+-Yes, well. Of course. Yes, yes.
+-Bravo, bravo.
+
+605
+00:43:08,276 --> 00:43:09,944
+Welcome, Laurie.
+
+606
+00:43:22,915 --> 00:43:25,835
+-Three, four, five.
+-You both got five.
+
+607
+00:43:25,918 --> 00:43:28,171
+-I asked the doctor.
+-That's a draw, I think.
+
+608
+00:43:28,254 --> 00:43:31,007
+-It doesn't make sense.
+-I know. I can't believe it.
+
+609
+00:43:31,090 --> 00:43:32,466
+Hello.
+
+610
+00:43:32,550 --> 00:43:33,593
+Jo!
+
+611
+00:43:38,973 --> 00:43:41,350
+Daisy and Demi! Can I have a hug?
+
+612
+00:43:41,434 --> 00:43:43,186
+Oh, you've gotten so big.
+
+613
+00:43:44,729 --> 00:43:47,732
+-I wish you were here to teach them.
+-I know. Well, I'm here now.
+
+614
+00:43:47,815 --> 00:43:50,026
+-So good to have you home.
+-Take this off.
+
+615
+00:43:50,109 --> 00:43:53,905
+I think the loneliness got to Beth,
+though she ain't said anything.
+
+616
+00:43:53,988 --> 00:43:57,325
+-Where is Beth?
+-She's upstairs. Oh, my Jo.
+
+617
+00:43:58,618 --> 00:44:01,871
+We all thought she was better,
+but the fever'd weakened her heart.
+
+618
+00:44:03,080 --> 00:44:05,875
+Take this and find her the best doctor you can.
+
+619
+00:44:05,958 --> 00:44:08,794
+-You need this money to live in New York.
+-No, I'm not going back.
+
+620
+00:44:08,878 --> 00:44:11,464
+I'm using the rest to take her to the sea and get her strong.
+
+621
+00:44:14,884 --> 00:44:16,427
+When's Amy coming home?
+
+622
+00:44:17,512 --> 00:44:20,348
+-We didn't want to worry her.
+-Does she not know?
+
+623
+00:44:22,892 --> 00:44:27,146
+Beth insisted we not tell her
+because she didn't want to ruin Amy's trip.
+
+624
+00:44:31,567 --> 00:44:34,654
+Amy has always had a talent
+for getting out of the hard parts of life.
+
+625
+00:44:34,737 --> 00:44:36,906
+Jo, don't be angry with your sister.
+
+626
+00:44:45,498 --> 00:44:47,667
+I can't seem to find anything.
+
+627
+00:44:47,750 --> 00:44:51,170
+-Marmee, have you seen my glove?
+-When did you last see it?
+
+628
+00:44:53,172 --> 00:44:56,092
+Jo! Jo, where are you?
+
+629
+00:44:56,175 --> 00:44:58,177
+-I can't find my other glove.
+-Take mine.
+
+630
+00:44:58,261 --> 00:45:00,513
+-Jo, we're going to be late.
+-Where are you going?
+
+631
+00:45:00,596 --> 00:45:02,056
+You're not invited.
+
+632
+00:45:02,139 --> 00:45:06,269
+-You're going somewhere with Laurie. I know it.
+-Yes, we are. Now, stop bothering.
+
+633
+00:45:06,352 --> 00:45:07,937
+-You have the tickets?
+-Yes. Hurry up.
+
+634
+00:45:08,020 --> 00:45:11,399
+You're going to the theater with Laurie.
+Meg, can I come? Please, can I come?
+
+635
+00:45:11,482 --> 00:45:15,361
+-I'm sorry, but you weren't invited.
+-You can't go, so don't be a baby and whine about it.
+
+636
+00:45:15,444 --> 00:45:17,864
+I've been shut up here, and I never get to go anywhere.
+
+637
+00:45:17,947 --> 00:45:21,492
+-Beth has her piano, and I'm lonely.
+-I can teach you chords.
+
+638
+00:45:21,576 --> 00:45:23,870
+I don't want chords. I want to go to the theater.
+
+639
+00:45:23,953 --> 00:45:26,789
+No. I think you'd hate to poke yourself in
+where you're not wanted.
+
+640
+00:45:26,873 --> 00:45:30,126
+-We already have to deal with dull Mr. Brooke.
+-I like him. He's kind.
+
+641
+00:45:30,209 --> 00:45:32,879
+-But I can pay for myself.
+-You will not come.
+
+642
+00:45:32,962 --> 00:45:34,797
+I'm sorry, my sweet, but Jo is right.
+
+643
+00:45:34,881 --> 00:45:36,299
+-No! Please.
+-Next time.
+
+644
+00:45:36,382 --> 00:45:39,510
+-Come, Meg. Stop petting her.
+-Please, please, please!
+
+645
+00:45:39,594 --> 00:45:42,054
+-You'll be sorry for this, Jo March!
+-Amy!
+
+646
+00:45:42,138 --> 00:45:44,557
+You will! You'll regret this!
+
+647
+00:45:47,393 --> 00:45:49,520
+Stop looking at me like that!
+
+648
+00:46:43,574 --> 00:46:45,618
+-I loved every second of it.
+-Jo!
+
+649
+00:46:45,701 --> 00:46:49,872
+-I thought the actress was--
+-Very, very good.
+
+650
+00:46:49,956 --> 00:46:53,167
+-Yes, she was really good.
+-She was. She was very good.
+
+651
+00:47:09,392 --> 00:47:10,893
+Bye!
+
+652
+00:47:10,977 --> 00:47:13,062
+Oh, I love the theater.
+
+653
+00:47:13,145 --> 00:47:17,441
+Meg, you're a million times better than she was.
+Although she was a terrific fainter.
+
+654
+00:47:17,525 --> 00:47:19,777
+I wonder how she managed to turn so white as she did.
+
+655
+00:47:19,861 --> 00:47:22,238
+That Mr. Brooke, could he be any more obsequious?
+
+656
+00:47:22,321 --> 00:47:26,075
+-I thought he was very well-mannered.
+-Hold on. Let me just get this idea down.
+
+657
+00:47:32,707 --> 00:47:35,042
+-Beth, what's your favorite eye color?
+-Purple.
+
+658
+00:47:35,126 --> 00:47:39,130
+Mr. Brooke has blue eyes and an old soul,
+which is much more important than money.
+
+659
+00:47:39,213 --> 00:47:40,756
+Has anyone taken my novel?
+
+660
+00:47:41,591 --> 00:47:43,176
+-No.
+-No. Why?
+
+661
+00:47:54,145 --> 00:47:55,813
+Amy, you've got it.
+
+662
+00:47:55,897 --> 00:47:57,607
+-No, I haven't.
+-That's a lie.
+
+663
+00:47:57,690 --> 00:48:00,276
+I haven't got it, I don't know where it is, and I don't care.
+
+664
+00:48:00,359 --> 00:48:01,986
+Tell me, or I'll make you!
+
+665
+00:48:02,069 --> 00:48:04,197
+-I burnt it up!
+-Marmee!
+
+666
+00:48:04,280 --> 00:48:08,451
+I burnt your book. I told you I'd make you pay, and I did!
+
+667
+00:48:08,534 --> 00:48:11,120
+All right, Jo! Jo! Jo! Please get off her!
+
+668
+00:48:11,204 --> 00:48:12,830
+Jo. Amy.
+
+669
+00:48:12,914 --> 00:48:14,832
+-Get her off!
+-I hate you!
+
+670
+00:48:21,881 --> 00:48:23,257
+I'm sorry, Jo.
+
+671
+00:48:24,759 --> 00:48:25,718
+Amy.
+
+672
+00:48:32,141 --> 00:48:34,852
+It's just that the only thing you care about is your writing.
+
+673
+00:48:34,936 --> 00:48:38,356
+And it's not as if I could've hurt you
+by ruining one of your dresses,
+
+674
+00:48:38,439 --> 00:48:40,358
+and I really did want to hurt you.
+
+675
+00:48:42,235 --> 00:48:45,238
+I am the most sorry for it now. I'm so sorry.
+
+676
+00:48:46,697 --> 00:48:47,532
+Jo...
+
+677
+00:48:48,324 --> 00:48:50,868
+don't let the sun go down on your anger.
+
+678
+00:48:50,952 --> 00:48:52,662
+Forgive her.
+
+679
+00:48:52,745 --> 00:48:54,080
+Help each other.
+
+680
+00:48:55,206 --> 00:48:56,999
+And you begin again tomorrow.
+
+681
+00:48:59,043 --> 00:49:01,337
+She doesn't deserve my forgiveness.
+
+682
+00:49:01,879 --> 00:49:05,383
+And I will hate her. I will hate her forever!
+
+683
+00:49:36,414 --> 00:49:38,624
+Good morning. Brisk and brilliant outside today.
+
+684
+00:49:38,708 --> 00:49:40,459
+-Last day at the river. Get your skates.
+-Let's go!
+
+685
+00:49:40,543 --> 00:49:43,379
+Jo, you promised me I could come last time. Jo!
+
+686
+00:49:46,257 --> 00:49:48,176
+Is she going to be like this forever?
+
+687
+00:49:49,260 --> 00:49:51,345
+It was a very hard loss for her.
+
+688
+00:49:51,429 --> 00:49:53,598
+Is there nothing I can do?
+
+689
+00:49:55,808 --> 00:50:00,229
+Go after her. Don't say anything
+till Jo has got good-natured with Laurie,
+
+690
+00:50:00,313 --> 00:50:02,315
+and then just say some kind thing.
+
+691
+00:50:02,398 --> 00:50:03,941
+I'm sure she'll be friends again.
+
+692
+00:50:04,901 --> 00:50:06,944
+Jo, wait!
+
+693
+00:50:07,028 --> 00:50:08,863
+I'm coming!
+
+694
+00:50:08,946 --> 00:50:11,199
+You said I could come last time!
+
+695
+00:50:13,951 --> 00:50:16,120
+Jo, Laurie, wait! I'm coming!
+
+696
+00:50:17,079 --> 00:50:18,122
+Wait!
+
+697
+00:50:19,540 --> 00:50:20,875
+Jo!
+
+698
+00:50:20,958 --> 00:50:23,211
+Stay near the edge. It's not safe in the middle.
+
+699
+00:50:23,294 --> 00:50:25,087
+-Got it.
+-Jo!
+
+700
+00:50:29,592 --> 00:50:31,135
+Jo, I'm coming!
+
+701
+00:50:36,557 --> 00:50:37,683
+Jo!
+
+702
+00:50:39,769 --> 00:50:41,020
+Jo, let's go!
+
+703
+00:50:46,359 --> 00:50:47,652
+Jo, wait!
+
+704
+00:50:55,284 --> 00:50:56,244
+Jo!
+
+705
+00:51:06,462 --> 00:51:07,922
+-Are you all right?
+-Yes.
+
+706
+00:51:08,005 --> 00:51:11,509
+-Help! Help me!
+-Amy. It's Amy.
+
+707
+00:51:11,592 --> 00:51:13,135
+Come on. Come on, Jo.
+
+708
+00:51:13,219 --> 00:51:14,136
+Jo!
+
+709
+00:51:15,221 --> 00:51:16,222
+Jo!
+
+710
+00:51:17,807 --> 00:51:19,684
+Jo, get a branch. Get a branch.
+
+711
+00:51:20,226 --> 00:51:21,686
+-Amy.
+-Jo!
+
+712
+00:51:21,769 --> 00:51:23,646
+Amy. Amy.
+
+713
+00:51:23,729 --> 00:51:24,730
+Help!
+
+714
+00:51:24,814 --> 00:51:26,357
+I can't breathe!
+
+715
+00:51:26,440 --> 00:51:30,528
+Jo, help me pull. Amy, grab the branch. Grab it, Amy.
+
+716
+00:51:40,621 --> 00:51:43,666
+I'm so sorry. Oh, my sister, my sister.
+
+717
+00:51:48,796 --> 00:51:50,131
+She's asleep.
+
+718
+00:51:53,384 --> 00:51:55,386
+If she had died, it would have been my fault.
+
+719
+00:51:56,846 --> 00:51:58,347
+She'll be fine.
+
+720
+00:51:59,473 --> 00:52:02,977
+The doctor said that he didn't even think she'd catch cold.
+
+721
+00:52:04,520 --> 00:52:06,105
+What is wrong with me?
+
+722
+00:52:07,190 --> 00:52:08,983
+I've made so many resolutions,
+
+723
+00:52:09,066 --> 00:52:12,820
+and I've written sad notes, and I've cried over my sins...
+
+724
+00:52:14,697 --> 00:52:17,200
+but it just doesn't seem to help.
+
+725
+00:52:18,951 --> 00:52:22,872
+When I get in a passion, I get so savage.
+
+726
+00:52:22,955 --> 00:52:25,416
+I could hurt anyone, and I'd enjoy it.
+
+727
+00:52:26,709 --> 00:52:28,586
+You remind me of myself.
+
+728
+00:52:30,796 --> 00:52:32,215
+But you're never angry.
+
+729
+00:52:33,549 --> 00:52:36,052
+I'm angry nearly every day of my life.
+
+730
+00:52:37,345 --> 00:52:38,262
+You are?
+
+731
+00:52:39,514 --> 00:52:41,599
+I am not patient by nature.
+
+732
+00:52:42,850 --> 00:52:46,229
+But with nearly 40 years of effort,
+
+733
+00:52:46,312 --> 00:52:48,773
+I'm learning to not let it get the better of me.
+
+734
+00:52:52,109 --> 00:52:53,820
+Well, I'll do the same, then.
+
+735
+00:52:55,822 --> 00:52:58,491
+I hope you'll do a great deal better than me.
+
+736
+00:53:01,077 --> 00:53:05,498
+There are some natures too noble to curb
+
+737
+00:53:05,581 --> 00:53:07,917
+and too lofty to bend.
+
+738
+00:53:28,729 --> 00:53:29,689
+Jo.
+
+739
+00:53:30,731 --> 00:53:32,817
+Oh, Beth, my love.
+
+740
+00:53:35,653 --> 00:53:38,823
+-You didn't need to come.
+-I never should have left.
+
+741
+00:53:38,906 --> 00:53:41,534
+Do you need anything? Here.
+
+742
+00:53:41,617 --> 00:53:42,952
+Take some water.
+
+743
+00:53:46,664 --> 00:53:48,583
+It's so good to see your face.
+
+744
+00:53:49,709 --> 00:53:52,128
+We're going to the sea to get you strong and well.
+
+745
+00:53:52,211 --> 00:53:55,339
+-The sea?
+-I want you dancing by the time Amy gets back.
+
+746
+00:53:56,340 --> 00:53:59,010
+-She's not cutting her trip short, is she?
+-No, no.
+
+747
+00:53:59,093 --> 00:54:00,303
+Good.
+
+748
+00:54:00,386 --> 00:54:02,847
+Is there any news? What does she say?
+
+749
+00:54:02,930 --> 00:54:05,099
+She writes that Laurie is there.
+
+750
+00:54:05,183 --> 00:54:06,601
+I'm glad he's with her.
+
+751
+00:54:07,852 --> 00:54:10,104
+He won't respond to any of my letters.
+
+752
+00:54:11,439 --> 00:54:12,690
+Do you miss him?
+
+753
+00:54:14,275 --> 00:54:15,526
+I miss everything.
+
+754
+00:54:17,570 --> 00:54:18,571
+I know.
+
+755
+00:54:22,909 --> 00:54:25,661
+-Hurry up, you two! Meg's gonna be gone for a week.
+-We're coming!
+
+756
+00:54:25,745 --> 00:54:27,955
+You take the other carriage, Laurie, and spy on Meg.
+
+757
+00:54:28,039 --> 00:54:29,916
+-Make sure she doesn't fall in love.
+-I will.
+
+758
+00:54:29,999 --> 00:54:32,502
+It was nice of Annie to invite me to her debutante ball.
+
+759
+00:54:32,585 --> 00:54:35,755
+-Thank you for letting me go.
+-Just be who you are.
+
+760
+00:54:35,838 --> 00:54:39,717
+And wear this to the ball. It was mine when I was your age.
+
+761
+00:54:39,800 --> 00:54:42,470
+I've never understood saving jewelry until marriage.
+
+762
+00:54:42,553 --> 00:54:46,974
+You should have something that's just yours.
+Pretty things should be enjoyed.
+
+763
+00:54:47,058 --> 00:54:49,268
+Yes, pretty things should be enjoyed.
+
+764
+00:54:50,645 --> 00:54:51,687
+-Can I see it?
+-Hannah!
+
+765
+00:54:51,771 --> 00:54:53,648
+I wish I could go to the debutante ball.
+
+766
+00:54:53,731 --> 00:54:56,776
+Do you think this is a good idea, her going away like this?
+
+767
+00:54:56,859 --> 00:55:00,196
+Girls have to go into the world
+and make up their own minds about things.
+
+768
+00:55:00,279 --> 00:55:02,990
+-Don't forget about us.
+-I won't, Jo. It's only a week.
+
+769
+00:55:03,074 --> 00:55:04,992
+-It's beautiful.
+-It's not yours.
+
+770
+00:55:05,076 --> 00:55:08,579
+-It would look very good on me.
+-She needs to have some decent shoes.
+
+771
+00:55:08,663 --> 00:55:13,167
+Thank you for the carriage, Mr. Laurence.
+I don't know how to repay you.
+
+772
+00:55:13,251 --> 00:55:14,627
+Nonsense, nonsense.
+
+773
+00:55:14,710 --> 00:55:18,130
+-I said hi to the horses. They're very nice.
+-Although there is one thing.
+
+774
+00:55:18,214 --> 00:55:22,552
+It occurred to me today
+that my daughter's piano suffers from want of use.
+
+775
+00:55:22,635 --> 00:55:26,472
+Any of your girls like to run over
+and practice on it now and then?
+
+776
+00:55:26,556 --> 00:55:31,185
+Just to keep it in tune.
+If they don't care to come, why, then never mind.
+
+777
+00:55:31,269 --> 00:55:34,230
+Oh, sir, they do care.
+
+778
+00:55:34,313 --> 00:55:35,439
+Very, very much.
+
+779
+00:55:36,482 --> 00:55:39,026
+-You're the musical girl?
+-I love it dearly.
+
+780
+00:55:39,110 --> 00:55:43,656
+And I'll come if you are quite sure
+nobody will hear me and be disturbed.
+
+781
+00:55:43,739 --> 00:55:45,491
+Not a soul, my dear.
+
+782
+00:55:49,787 --> 00:55:50,913
+-Miss you.
+-Bye.
+
+783
+00:55:50,997 --> 00:55:52,331
+-Can I borrow your ribbons?
+-No.
+
+784
+00:55:53,249 --> 00:55:55,084
+-Bye!
+-Be good. Enjoy the ball.
+
+785
+00:55:55,168 --> 00:55:58,045
+-Bye. I'll be back soon.
+-Don't go and get married.
+
+786
+00:55:58,129 --> 00:55:59,213
+Don't go fall in love.
+
+787
+00:55:59,297 --> 00:56:00,715
+-Come back right now.
+-I love you.
+
+788
+00:56:00,798 --> 00:56:02,884
+-Right this second.
+-Right this second.
+
+789
+00:56:14,520 --> 00:56:15,521
+Whoa there.
+
+790
+00:56:22,612 --> 00:56:23,613
+Thank you.
+
+791
+00:56:47,220 --> 00:56:49,388
+I'd be so excited about tonight.
+
+792
+00:56:50,723 --> 00:56:53,518
+-Of course.
+-Oh, no, I don't actually...
+
+793
+00:56:55,436 --> 00:56:57,522
+What dress will you wear tonight, Meg?
+
+794
+00:56:57,605 --> 00:57:00,983
+-I will wear this one.
+-That one? Can't you send home for another?
+
+795
+00:57:01,067 --> 00:57:03,611
+-I haven't got another.
+-Only the one? Oh, that's so funny.
+
+796
+00:57:03,694 --> 00:57:04,987
+Not at all.
+
+797
+00:57:05,071 --> 00:57:09,534
+There's no need in sending home, Daisy.
+I'm going to call you Daisy now.
+
+798
+00:57:09,617 --> 00:57:13,120
+I've got a sweet pink dress laid away,
+and you'll wear it to please me, won't you, Daisy?
+
+799
+00:57:14,121 --> 00:57:16,207
+-If it's all right.
+-Of course.
+
+800
+00:57:53,786 --> 00:57:55,454
+Everyone's in love with you, Daisy.
+
+801
+00:57:55,538 --> 00:57:58,166
+-You have to keep my dress.
+-I can't keep your dress.
+
+802
+00:57:58,249 --> 00:57:59,667
+-You have to. Please.
+-No.
+
+803
+00:57:59,750 --> 00:58:01,085
+I love seeing you in it.
+
+804
+00:58:03,671 --> 00:58:05,339
+Have fun, little Daisy.
+
+805
+00:58:05,423 --> 00:58:07,925
+Laurie. I didn't know you were going to come.
+
+806
+00:58:08,009 --> 00:58:09,677
+Supposed to be a surprise.
+
+807
+00:58:09,760 --> 00:58:12,597
+And what a lovely surprise it is.
+
+808
+00:58:12,680 --> 00:58:15,641
+-Why are they calling you Daisy?
+-It's their pet name for me.
+
+809
+00:58:17,894 --> 00:58:19,812
+Meg is a perfectly good name.
+
+810
+00:58:19,896 --> 00:58:24,484
+It's just like playing a part to be Daisy for a little while.
+
+811
+00:58:29,155 --> 00:58:30,490
+What would Jo say?
+
+812
+00:58:35,495 --> 00:58:38,039
+You wouldn't actually marry one of these men, would you?
+
+813
+00:58:40,166 --> 00:58:41,209
+I might.
+
+814
+00:58:42,585 --> 00:58:44,337
+You'll get a terrible headache tomorrow.
+
+815
+00:58:50,176 --> 00:58:51,594
+Do you like how I look?
+
+816
+00:58:51,677 --> 00:58:53,137
+No, I don't.
+
+817
+00:58:54,514 --> 00:58:55,932
+Why not?
+
+818
+00:58:56,015 --> 00:58:57,975
+I don't like fuss and feathers.
+
+819
+00:58:59,227 --> 00:59:01,187
+You're the rudest boy I ever saw.
+
+820
+01:00:33,196 --> 01:00:35,031
+Please forgive me and come dance.
+
+821
+01:00:35,615 --> 01:00:38,201
+I'm afraid it would be too disagreeable for you.
+
+822
+01:00:38,284 --> 01:00:42,788
+I don't like your dress, but I think you are just splendid.
+
+823
+01:00:45,500 --> 01:00:47,627
+-Really?
+-Really.
+
+824
+01:00:51,589 --> 01:00:55,426
+I know it's silly, but please don't tell Jo.
+
+825
+01:00:55,510 --> 01:01:00,014
+Let me have my fun tonight.
+I'll be desperately good for the rest of my life.
+
+826
+01:01:31,712 --> 01:01:32,964
+I'm sorry, John.
+
+827
+01:01:34,257 --> 01:01:36,926
+The silk was the first real expense.
+
+828
+01:01:40,137 --> 01:01:44,559
+Fifty dollars, while a lot, is not, I suppose,
+
+829
+01:01:44,642 --> 01:01:49,438
+too much for a dress with all the notions
+that are needed to finish it these days.
+
+830
+01:01:54,068 --> 01:01:56,696
+It's not exactly even a dress yet. It's...
+
+831
+01:01:58,948 --> 01:02:00,366
+It's just the fabric.
+
+832
+01:02:05,288 --> 01:02:06,289
+I see.
+
+833
+01:02:08,040 --> 01:02:09,584
+I know you're angry, John.
+
+834
+01:02:09,667 --> 01:02:11,878
+I don't mean to waste your money, but I can't resist
+
+835
+01:02:11,961 --> 01:02:15,298
+when I see Sallie buying all she wants
+and pitying me because I don't.
+
+836
+01:02:16,883 --> 01:02:21,304
+I try to be contented, but it is hard.
+
+837
+01:02:21,387 --> 01:02:23,681
+And I'm tired of being poor.
+
+838
+01:02:26,642 --> 01:02:28,186
+I was afraid of this.
+
+839
+01:02:29,395 --> 01:02:31,189
+I do my best, Meg.
+
+840
+01:02:31,272 --> 01:02:32,732
+Oh, John.
+
+841
+01:02:32,815 --> 01:02:35,985
+My dear, kind, hardworking boy.
+
+842
+01:02:36,068 --> 01:02:38,738
+It was so ungrateful and wicked.
+
+843
+01:02:39,947 --> 01:02:41,657
+How could I say it?
+
+844
+01:02:41,741 --> 01:02:44,994
+-Perhaps you meant it.
+-No, I didn't.
+
+845
+01:02:45,077 --> 01:02:47,455
+We'll work out a way to get you your coat as well,
+
+846
+01:02:47,538 --> 01:02:50,500
+and then won't we be grand, the two of us?
+
+847
+01:02:50,583 --> 01:02:52,210
+I can't afford it, my dear.
+
+848
+01:02:53,211 --> 01:02:55,046
+-John.
+-I need to go to bed.
+
+849
+01:02:56,255 --> 01:02:57,173
+John.
+
+850
+01:03:00,301 --> 01:03:05,890
+And I really am very sorry that you've had to do
+without so many beautiful things...
+
+851
+01:03:06,349 --> 01:03:09,685
+and that you're married to someone
+who can't give them to you.
+
+852
+01:03:21,364 --> 01:03:22,365
+Hello, Amy.
+
+853
+01:03:22,448 --> 01:03:24,158
+I don't want to see you.
+
+854
+01:03:24,242 --> 01:03:27,078
+Don't be mad at me. I'm sorry for how I behaved.
+
+855
+01:03:27,161 --> 01:03:28,454
+Have you been drinking again?
+
+856
+01:03:28,538 --> 01:03:31,833
+-Why are you being so hard on me? It's 4 p.m.
+-Someone has to do it.
+
+857
+01:03:33,709 --> 01:03:36,879
+When do you begin your great work of art, Raphaella?
+
+858
+01:03:36,963 --> 01:03:37,880
+Never.
+
+859
+01:03:37,964 --> 01:03:40,091
+"Never"? What? Why?
+
+860
+01:03:40,716 --> 01:03:42,134
+I'm a failure.
+
+861
+01:03:42,218 --> 01:03:45,221
+Jo is in New York being a writer, and I'm a failure.
+
+862
+01:03:45,304 --> 01:03:47,348
+That's quite a statement to make at 20.
+
+863
+01:03:47,431 --> 01:03:51,477
+Rome took all the vanity out of me,
+and Paris made me realize I'd never be a genius,
+
+864
+01:03:51,561 --> 01:03:54,856
+-so I'm giving up all my foolish artistic hopes.
+-Why should you give up?
+
+865
+01:03:54,939 --> 01:03:58,151
+-You have so much talent and energy.
+-Talent isn't genius.
+
+866
+01:03:58,234 --> 01:04:00,820
+And no amount of energy can make it so.
+
+867
+01:04:00,903 --> 01:04:03,072
+I want to be great or nothing.
+
+868
+01:04:03,156 --> 01:04:07,910
+And I will not be some commonplace dauber,
+and I don't intend to try anymore.
+
+869
+01:04:12,832 --> 01:04:16,169
+What women are allowed into the club of geniuses anyway?
+
+870
+01:04:19,672 --> 01:04:20,798
+The Brontës?
+
+871
+01:04:22,133 --> 01:04:23,885
+-That's it?
+-Yes, I think so.
+
+872
+01:04:23,968 --> 01:04:26,679
+And who always declares genius?
+
+873
+01:04:26,762 --> 01:04:30,016
+-Men, I suppose.
+-They're cutting down the competition.
+
+874
+01:04:30,099 --> 01:04:33,144
+That's a very complicated argument to make me feel better.
+
+875
+01:04:33,227 --> 01:04:34,770
+Do you though? Do you feel better?
+
+876
+01:04:34,854 --> 01:04:40,902
+-I do think, male or female, I am of middling talent.
+-"Middling talent"?
+
+877
+01:04:47,408 --> 01:04:50,495
+Then may I ask your last portrait be of me?
+
+878
+01:04:50,578 --> 01:04:51,412
+All right.
+
+879
+01:04:51,496 --> 01:04:55,583
+Now that you've given up all your foolish artistic hopes...
+
+880
+01:04:55,666 --> 01:04:57,418
+what are you gonna do with your life?
+
+881
+01:04:57,502 --> 01:05:01,589
+Polish up all my other talents
+and become an ornament to society.
+
+882
+01:05:02,673 --> 01:05:04,842
+That's where Fred Vaughn comes in, I suppose.
+
+883
+01:05:04,926 --> 01:05:07,595
+-Don't make fun.
+-I said his name.
+
+884
+01:05:08,387 --> 01:05:10,848
+-You're not engaged, I hope.
+-No.
+
+885
+01:05:13,935 --> 01:05:17,355
+But you will be if he goes down properly on one knee?
+
+886
+01:05:18,856 --> 01:05:20,483
+Most likely, yes.
+
+887
+01:05:21,317 --> 01:05:24,153
+He's rich. Richer than you, even.
+
+888
+01:05:24,237 --> 01:05:26,948
+I understand queens of society can't get on without money,
+
+889
+01:05:27,031 --> 01:05:30,576
+although it does sound odd from the mouth
+of one of your mother's girls.
+
+890
+01:05:32,703 --> 01:05:36,123
+I've always known I would marry rich.
+Why should I be ashamed of that?
+
+891
+01:05:36,207 --> 01:05:39,210
+It's nothing to be ashamed of, as long as you love him.
+
+892
+01:05:39,293 --> 01:05:41,796
+I believe we have some power over who we love.
+
+893
+01:05:41,879 --> 01:05:44,090
+It isn't something that just happens to a person.
+
+894
+01:05:44,173 --> 01:05:46,592
+I think the poets might disagree.
+
+895
+01:05:46,676 --> 01:05:48,511
+Well, I'm not a poet.
+
+896
+01:05:48,594 --> 01:05:50,012
+I'm just a woman.
+
+897
+01:05:51,931 --> 01:05:54,892
+And as a woman, there's no way for me
+to make my own money.
+
+898
+01:05:56,477 --> 01:06:00,857
+Not enough to earn a living or to support my family.
+
+899
+01:06:00,940 --> 01:06:03,151
+If I had my own money, which I don't,
+
+900
+01:06:03,234 --> 01:06:06,320
+that money would belong to my husband
+the moment we got married.
+
+901
+01:06:06,404 --> 01:06:09,323
+If we had children, they would be his, not mine.
+
+902
+01:06:09,407 --> 01:06:10,575
+They would be his property.
+
+903
+01:06:10,658 --> 01:06:15,580
+So don't sit there and tell me that marriage isn't
+an economic proposition because it is.
+
+904
+01:06:17,373 --> 01:06:20,293
+It may not be for you, but it most certainly is for me.
+
+905
+01:06:23,296 --> 01:06:25,965
+Oh, that's Fred. Can you unbutton me, please?
+
+906
+01:06:44,025 --> 01:06:45,109
+Thank you.
+
+907
+01:06:52,450 --> 01:06:53,951
+How do I look? Do I look all right?
+
+908
+01:06:54,535 --> 01:06:55,745
+You look beautiful.
+
+909
+01:06:59,540 --> 01:07:00,666
+You are beautiful.
+
+910
+01:07:10,676 --> 01:07:12,595
+Fred!
+
+911
+01:07:12,678 --> 01:07:14,222
+I've missed you.
+
+912
+01:07:32,990 --> 01:07:36,452
+This is Fred Vaughn and his sister, Kate.
+Course you know Mr. Brooke.
+
+913
+01:07:36,536 --> 01:07:38,788
+This is Meg, Amy, Beth, and Jo.
+
+914
+01:07:38,871 --> 01:07:42,291
+-So pleased to meet you.
+-Oh, how elegant.
+
+915
+01:07:42,375 --> 01:07:46,712
+I'm Amy March. You remember that name.
+I'm gonna come find you one day in London.
+
+916
+01:07:46,796 --> 01:07:48,172
+Oh, I certainly will.
+
+917
+01:08:11,571 --> 01:08:13,948
+-Oh, that missed a boat.
+-That's very kind.
+
+918
+01:08:16,868 --> 01:08:18,619
+-Well...
+-Sorry.
+
+919
+01:08:18,703 --> 01:08:20,329
+I know something you don't know.
+
+920
+01:08:20,413 --> 01:08:23,624
+-Tell me this second.
+-Has Meg perhaps mislaid a glove?
+
+921
+01:08:24,834 --> 01:08:26,252
+-Mr. Brooke has it!
+-Yes.
+
+922
+01:08:26,334 --> 01:08:27,587
+-How do you know?
+-I saw it.
+
+923
+01:08:27,669 --> 01:08:28,671
+-Where?
+-In his pocket.
+
+924
+01:08:28,754 --> 01:08:30,589
+-All this time?
+-Yes. Isn't it romantic?
+
+925
+01:08:30,673 --> 01:08:32,967
+-No, it's horrid.
+-I thought you'd be pleased.
+
+926
+01:08:33,049 --> 01:08:36,345
+At the idea of anybody coming
+to take Meg away? No, thank you.
+
+927
+01:08:36,428 --> 01:08:38,806
+You'll feel better when somebody comes to take you away.
+
+928
+01:08:38,890 --> 01:08:42,810
+-I'd like to see anyone try it.
+-I would like to see someone try as well.
+
+929
+01:08:48,774 --> 01:08:51,276
+<i>"We could never have loved the earth so well</i>
+
+930
+01:08:51,819 --> 01:08:54,363
+<i>if we had had no childhood in it,</i>
+
+931
+01:08:54,864 --> 01:08:59,785
+<i>if it were not the earth
+where the same flowers come up again every spring</i>
+
+932
+01:08:59,869 --> 01:09:03,455
+<i>that we used to gather with our tiny fingers.</i>
+
+933
+01:09:03,539 --> 01:09:06,667
+<i>What novelty is worth that sweet monotony</i>
+
+934
+01:09:07,209 --> 01:09:09,712
+where everything is known and loved
+
+935
+01:09:09,794 --> 01:09:11,506
+because it is known?"
+
+936
+01:09:12,798 --> 01:09:14,174
+How great is that?
+
+937
+01:09:15,676 --> 01:09:17,303
+I love to listen to you read, Jo,
+
+938
+01:09:17,386 --> 01:09:20,013
+but I just love it better
+when you read the stories you've written.
+
+939
+01:09:20,388 --> 01:09:22,266
+I don't have any new stories.
+
+940
+01:09:22,350 --> 01:09:23,351
+Why not?
+
+941
+01:09:27,480 --> 01:09:28,689
+Haven't written any.
+
+942
+01:09:30,107 --> 01:09:33,361
+You have a pencil and paper.
+Sit here and write me something.
+
+943
+01:09:35,321 --> 01:09:36,446
+I can't.
+
+944
+01:09:37,865 --> 01:09:41,035
+I don't think I can anymore.
+
+945
+01:09:41,118 --> 01:09:41,953
+Why?
+
+946
+01:09:42,537 --> 01:09:46,707
+It's just... no one even cares to hear my stories anyway.
+
+947
+01:09:47,708 --> 01:09:50,086
+Write something for me.
+
+948
+01:09:51,379 --> 01:09:53,172
+You are a writer.
+
+949
+01:09:53,256 --> 01:09:55,716
+Even before anyone knew or paid you.
+
+950
+01:09:55,800 --> 01:09:58,302
+I'm very sick, and you must do what I say.
+
+951
+01:10:00,721 --> 01:10:02,849
+Do what Marmee taught us to do.
+
+952
+01:10:02,932 --> 01:10:04,475
+Do it for someone else.
+
+953
+01:10:06,352 --> 01:10:11,732
+If you're walking to Vermont,
+there's a Mrs. Sewall in Keene, New Hampshire,
+
+954
+01:10:11,816 --> 01:10:14,360
+-who will give you room and board.
+-There you are.
+
+955
+01:10:14,902 --> 01:10:17,113
+You should go home. I can take care of this.
+
+956
+01:10:17,196 --> 01:10:19,448
+No, I need to be here.
+
+957
+01:10:19,532 --> 01:10:21,951
+I've spent my whole life ashamed of my country.
+
+958
+01:10:22,034 --> 01:10:25,121
+No offense meant, but you should still be ashamed.
+
+959
+01:10:25,204 --> 01:10:26,914
+I know. I am.
+
+960
+01:10:33,796 --> 01:10:36,507
+-Hello, sir.
+-Hello, ma'am.
+
+961
+01:10:36,591 --> 01:10:38,050
+Do you have sons in the Army?
+
+962
+01:10:39,427 --> 01:10:41,179
+Yes, ma'am. I had four.
+
+963
+01:10:41,262 --> 01:10:45,558
+But two were killed, and one is a prisoner.
+
+964
+01:10:45,641 --> 01:10:49,604
+I'm going to the other,
+who's very sick in a Washington hospital.
+
+965
+01:10:51,856 --> 01:10:54,358
+You've done a great deal for your country, sir.
+
+966
+01:10:55,026 --> 01:11:00,281
+I'd go myself if I was any use, but as I ain't, I give my boys.
+
+967
+01:11:03,784 --> 01:11:06,329
+Sir, I'll get you a blanket...
+
+968
+01:11:11,000 --> 01:11:12,877
+to keep you warm.
+
+969
+01:11:17,131 --> 01:11:19,926
+-Thank you. God bless.
+-Bless you, sir.
+
+970
+01:11:20,009 --> 01:11:23,846
+Mrs. March. Telegram from Washington, ma'am.
+
+971
+01:11:24,931 --> 01:11:28,309
+-Is Jo back yet from Aunt March?
+-No, I haven't seen her yet.
+
+972
+01:11:28,392 --> 01:11:30,686
+-I've got it!
+-You want another pair of shoes?
+
+973
+01:11:30,770 --> 01:11:33,773
+Thank you. I can't miss the last train.
+
+974
+01:11:33,856 --> 01:11:36,692
+-Hannah, did you get Father's nightshirts?
+-Yes, I did.
+
+975
+01:11:36,776 --> 01:11:38,486
+What can I do to help, Beth?
+
+976
+01:11:38,569 --> 01:11:40,404
+-Thank you for being here.
+-Of course.
+
+977
+01:11:40,488 --> 01:11:44,951
+-Did you find the warm blanket?
+-If I may be of any more assistance, please tell me.
+
+978
+01:11:45,034 --> 01:11:48,496
+-I'll look in on the girls every day without fail.
+-Do we need more books or cloth?
+
+979
+01:11:48,579 --> 01:11:49,497
+Thank you.
+
+980
+01:11:49,580 --> 01:11:52,416
+I've always admired your husband.
+I pray for a quick recovery.
+
+981
+01:11:52,500 --> 01:11:53,918
+I found these linens.
+
+982
+01:11:54,001 --> 01:11:56,420
+-Hannah, medicine?
+-The medicine is all packed.
+
+983
+01:11:56,504 --> 01:11:59,799
+-Oh, I'm sorry.
+-I came to offer myself as escort to your mother.
+
+984
+01:11:59,882 --> 01:12:01,801
+Mr. Laurence has commissions in Washington,
+
+985
+01:12:01,884 --> 01:12:05,012
+and it would give me real satisfaction
+to be of service to her there.
+
+986
+01:12:06,472 --> 01:12:08,224
+-Thank you.
+-Of course.
+
+987
+01:12:10,268 --> 01:12:13,062
+All right, while I'm gone, Hannah is in charge.
+
+988
+01:12:13,145 --> 01:12:16,941
+Remember to check on the Hummels.
+It will be a difficult winter for everyone.
+
+989
+01:12:17,024 --> 01:12:18,526
+Will this be enough for the train?
+
+990
+01:12:19,485 --> 01:12:23,322
+Twenty-five dollars?
+That's not like Aunt March to be so generous.
+
+991
+01:12:23,406 --> 01:12:25,449
+I didn't go to Aunt March. I couldn't bear to.
+
+992
+01:12:25,533 --> 01:12:28,953
+-Where'd you get the money?
+-I only sold what was my own.
+
+993
+01:12:29,036 --> 01:12:31,330
+Jo! Your hair!
+
+994
+01:12:31,414 --> 01:12:33,457
+-Your one beauty.
+-You look like a boy.
+
+995
+01:12:33,541 --> 01:12:36,752
+Well, it doesn't affect the fate of the nation, so don't wail.
+
+996
+01:12:37,879 --> 01:12:40,256
+Oh, I'm so proud you're my daughter.
+
+997
+01:12:40,339 --> 01:12:44,719
+I was crazy to do something for Father.
+It'll be good for my vanity anyway.
+
+998
+01:12:44,802 --> 01:12:46,554
+-That could be nice.
+-You never do that.
+
+999
+01:12:46,637 --> 01:12:48,681
+-This isn't what I wanted for her.
+-Oh, Teddy.
+
+1000
+01:12:50,558 --> 01:12:51,475
+Oh, Jo.
+
+1001
+01:12:52,768 --> 01:12:55,479
+My girls, I love you more than words can say.
+
+1002
+01:12:55,563 --> 01:12:58,691
+Be good to each other. Pray for Father's recovery.
+
+1003
+01:12:58,774 --> 01:13:00,776
+And I'll be back as soon as I can.
+
+1004
+01:13:00,860 --> 01:13:01,861
+Love you.
+
+1005
+01:13:09,744 --> 01:13:10,786
+Jo.
+
+1006
+01:13:13,039 --> 01:13:15,541
+What is it? Is it Father?
+
+1007
+01:13:15,625 --> 01:13:16,501
+No.
+
+1008
+01:13:17,919 --> 01:13:19,795
+It's my hair.
+
+1009
+01:13:24,759 --> 01:13:27,470
+I would feel the same way.
+
+1010
+01:13:27,553 --> 01:13:28,930
+I know you would.
+
+1011
+01:13:32,683 --> 01:13:34,769
+<i>Laurie, when are you going back to your grandfather?</i>
+
+1012
+01:13:35,228 --> 01:13:36,479
+Very soon.
+
+1013
+01:13:37,939 --> 01:13:41,442
+-You've said that a dozen times in the past month.
+-Short answers save trouble.
+
+1014
+01:13:41,526 --> 01:13:45,238
+Well, he is expecting you, so why don't you do it?
+
+1015
+01:13:45,321 --> 01:13:49,242
+-Natural depravity, I suppose.
+-Natural indolence, you mean.
+
+1016
+01:13:49,325 --> 01:13:53,162
+I'll only plague him if I go, so I might as well stay
+and plague you a little longer.
+
+1017
+01:13:53,246 --> 01:13:54,413
+You can bear it.
+
+1018
+01:13:54,497 --> 01:13:57,875
+-In fact, I think it agrees with you.
+-Stop it. Stop.
+
+1019
+01:14:02,463 --> 01:14:04,882
+-What are you doing?
+-I'm looking at you.
+
+1020
+01:14:04,966 --> 01:14:07,802
+I mean, what do you intend to do?
+
+1021
+01:14:07,885 --> 01:14:08,970
+-With life?
+-Yes.
+
+1022
+01:14:09,053 --> 01:14:11,514
+I've been writing an opera. I would be the central figure.
+
+1023
+01:14:11,597 --> 01:14:12,598
+That's a waste of time.
+
+1024
+01:14:14,267 --> 01:14:15,935
+What would you have me do?
+
+1025
+01:14:25,611 --> 01:14:28,823
+Go work for your grandfather
+and make something of yourself.
+
+1026
+01:14:28,906 --> 01:14:31,409
+You're not playing fair.
+
+1027
+01:14:36,164 --> 01:14:36,998
+Here.
+
+1028
+01:14:41,711 --> 01:14:43,462
+That's-- That's very good.
+
+1029
+01:14:45,590 --> 01:14:46,924
+When did you do this one?
+
+1030
+01:14:48,509 --> 01:14:50,303
+It was the day at the beach.
+
+1031
+01:14:51,596 --> 01:14:53,514
+First time I met Fred.
+
+1032
+01:14:53,598 --> 01:14:54,765
+That's right.
+
+1033
+01:15:00,730 --> 01:15:01,772
+What's he doing?
+
+1034
+01:15:04,817 --> 01:15:07,487
+He's in London on business.
+
+1035
+01:15:07,570 --> 01:15:08,946
+He'll be back in a few weeks.
+
+1036
+01:15:26,589 --> 01:15:27,757
+Don't marry him.
+
+1037
+01:15:29,967 --> 01:15:30,801
+What?
+
+1038
+01:15:34,347 --> 01:15:35,473
+Don't marry him.
+
+1039
+01:15:37,475 --> 01:15:38,309
+Why?
+
+1040
+01:15:38,851 --> 01:15:41,062
+Why? You know why.
+
+1041
+01:15:45,233 --> 01:15:46,067
+No.
+
+1042
+01:15:46,692 --> 01:15:47,527
+No.
+
+1043
+01:15:47,610 --> 01:15:49,612
+-Yes.
+-No. Laurie.
+
+1044
+01:15:49,695 --> 01:15:51,197
+-What?
+-You're being mean.
+
+1045
+01:15:51,280 --> 01:15:52,907
+-Stop it. Stop it.
+-What? How am I being mean?
+
+1046
+01:15:53,950 --> 01:15:57,787
+I have been second to Jo my whole life in everything.
+
+1047
+01:15:58,454 --> 01:16:02,291
+And I will not be the person you settle for
+just because you cannot have her.
+
+1048
+01:16:02,375 --> 01:16:04,043
+I won't. I won't do it.
+
+1049
+01:16:07,630 --> 01:16:11,092
+I won't. Not when I've spent my entire life loving you.
+
+1050
+01:16:24,522 --> 01:16:28,860
+I'm making a mold of my foot for Laurie,
+to remind him I have nice feet.
+
+1051
+01:16:28,943 --> 01:16:32,613
+Mr. Brooke writes
+that Father is still very weak but improving.
+
+1052
+01:16:34,115 --> 01:16:38,035
+Mr. Brooke also says
+that Mother is the best nurse a man could ask for.
+
+1053
+01:16:38,119 --> 01:16:40,788
+I wish all the letters were from Mother and not Mr. Brooke.
+
+1054
+01:16:40,872 --> 01:16:42,123
+I'm grateful for any letters.
+
+1055
+01:16:42,206 --> 01:16:44,876
+I think the deep purple is very fitting for Mr. Laurence.
+
+1056
+01:16:44,959 --> 01:16:47,795
+-Do you agree, Amy?
+-Quite. The design is very cunning.
+
+1057
+01:16:47,879 --> 01:16:51,549
+I had to thank him somehow for allowing me
+to play the piano at his house all the time.
+
+1058
+01:16:51,632 --> 01:16:54,927
+I'm going into town for groceries.
+Jo, can you look into getting more firewood?
+
+1059
+01:16:55,011 --> 01:16:57,180
+You all haven't been to the Hummels. We should go.
+
+1060
+01:16:57,263 --> 01:17:00,933
+Bethy, we barely have enough to feed ourselves.
+Besides, I have to finish this story.
+
+1061
+01:17:01,017 --> 01:17:03,186
+-Marmee said--
+-Marmee told us to do lots of things,
+
+1062
+01:17:03,269 --> 01:17:04,729
+but we can't possibly do them all.
+
+1063
+01:17:04,812 --> 01:17:07,482
+I always go by myself.
+And you haven't kept up with your tasks.
+
+1064
+01:17:07,565 --> 01:17:10,693
+-We do. We work.
+-Don't worry. We'll find a time.
+
+1065
+01:17:10,776 --> 01:17:11,694
+But it's been weeks.
+
+1066
+01:17:11,777 --> 01:17:15,031
+-We'll go soon.
+-My foot is stuck! I can't get it out!
+
+1067
+01:17:15,114 --> 01:17:19,160
+Stop it, Jo! I can't get it out! I'm going to lose my foot.
+
+1068
+01:17:20,286 --> 01:17:21,579
+Fine. I'll go myself.
+
+1069
+01:17:25,124 --> 01:17:27,502
+Hello. For Mr. Laurence.
+
+1070
+01:17:39,680 --> 01:17:40,681
+Here she comes.
+
+1071
+01:17:50,817 --> 01:17:52,527
+Beth, look what they got you!
+
+1072
+01:17:52,610 --> 01:17:54,987
+-Here's a letter from the old gentleman.
+-Open the note.
+
+1073
+01:17:56,239 --> 01:17:57,865
+Oh, Beth, just look.
+
+1074
+01:18:02,370 --> 01:18:04,664
+Jo, read the letter. I cannot.
+
+1075
+01:18:05,998 --> 01:18:09,836
+"Miss Beth March,
+I have had many pairs of slippers in my life,
+
+1076
+01:18:09,919 --> 01:18:13,256
+but I never had any that suited me so well as yours.
+
+1077
+01:18:13,339 --> 01:18:16,133
+And they will always remind me of the gentle giver.
+
+1078
+01:18:16,217 --> 01:18:19,637
+I like to pay my debts and hope you will accept this gift.
+
+1079
+01:18:19,720 --> 01:18:23,057
+Your grateful friend and humble servant, James Laurence."
+
+1080
+01:18:23,140 --> 01:18:26,018
+-Oh, Beth!
+-So sweet. "Your humble servant."
+
+1081
+01:18:26,102 --> 01:18:28,229
+-Isn't it beautiful?
+-Look how shiny it is!
+
+1082
+01:18:28,312 --> 01:18:31,607
+-Yes.
+-It has gold that goes all the way around the back.
+
+1083
+01:18:31,691 --> 01:18:35,319
+-His handwriting is beautiful.
+-It's got a little drawer here.
+
+1084
+01:18:47,832 --> 01:18:51,169
+Sir, I wanted to thank you for...
+
+1085
+01:19:02,597 --> 01:19:04,015
+You remind me...
+
+1086
+01:19:05,099 --> 01:19:07,143
+so much of my little girl.
+
+1087
+01:19:10,855 --> 01:19:12,315
+The piano is yours.
+
+1088
+01:19:12,398 --> 01:19:15,776
+-I should have given it to you long ago.
+-Thank you.
+
+1089
+01:19:17,570 --> 01:19:18,779
+My child...
+
+1090
+01:19:20,281 --> 01:19:21,866
+you're burning.
+
+1091
+01:19:23,451 --> 01:19:25,036
+The Hummels are very sick.
+
+1092
+01:19:35,963 --> 01:19:37,131
+She's resting.
+
+1093
+01:19:37,215 --> 01:19:40,384
+-How is she? Is there anything I can do?
+-What is it?
+
+1094
+01:19:40,468 --> 01:19:42,220
+-Scarlet fever.
+-What's scarlet fever?
+
+1095
+01:19:42,303 --> 01:19:44,847
+I visited the Hummels. The baby has died.
+
+1096
+01:19:44,931 --> 01:19:46,682
+Have you all had it before?
+
+1097
+01:19:46,766 --> 01:19:49,894
+-Meg and I have, but Amy hasn't.
+-Then she'll have to be sent away.
+
+1098
+01:19:49,977 --> 01:19:51,229
+I don't want to be sent away.
+
+1099
+01:19:51,312 --> 01:19:53,773
+-See if Aunt March can take her.
+-I don't like Aunt March.
+
+1100
+01:19:53,856 --> 01:19:56,609
+-It's for your own good, child.
+-Should we send for Mother?
+
+1101
+01:19:56,692 --> 01:20:00,446
+-No, we shouldn't worry her.
+-I've never wished for money more than now.
+
+1102
+01:20:00,530 --> 01:20:04,659
+Listen, we'll nurse her and she'll get better.
+
+1103
+01:20:04,742 --> 01:20:05,660
+She will.
+
+1104
+01:20:08,120 --> 01:20:11,916
+"The post office in the forest was a capital little institution
+
+1105
+01:20:11,999 --> 01:20:15,419
+and flourished wonderfully,
+for many things passed through it.
+
+1106
+01:20:15,503 --> 01:20:19,215
+Poetry and pickles, music and gingerbread,
+
+1107
+01:20:19,298 --> 01:20:22,969
+invitations, scoldings, and even puppies."
+
+1108
+01:20:24,804 --> 01:20:26,764
+-It's all about us.
+-It is.
+
+1109
+01:20:28,307 --> 01:20:30,351
+-I love it.
+-It's just a little story.
+
+1110
+01:20:30,434 --> 01:20:33,145
+-Nothing like what you usually write.
+-You think it's too boring?
+
+1111
+01:20:33,229 --> 01:20:35,273
+-No, it's my favorite one yet.
+-Really?
+
+1112
+01:20:35,356 --> 01:20:36,774
+-Write me another.
+-Yes, ma'am.
+
+1113
+01:20:36,858 --> 01:20:38,192
+-Keep writing them.
+-I will.
+
+1114
+01:20:38,276 --> 01:20:39,694
+Even when I'm not here.
+
+1115
+01:20:44,115 --> 01:20:46,450
+-Don't say that. Don't say it.
+-Jo, I have to tell you.
+
+1116
+01:20:46,534 --> 01:20:47,535
+No, you don't.
+
+1117
+01:20:47,618 --> 01:20:50,746
+I've had a very long time to think about this, and...
+
+1118
+01:20:50,830 --> 01:20:52,540
+-And I'm not afraid.
+-No.
+
+1119
+01:20:53,332 --> 01:20:54,250
+Nope.
+
+1120
+01:20:58,004 --> 01:21:01,799
+It's like the tide going out.
+It goes out slowly, but it can't be stopped.
+
+1121
+01:21:08,347 --> 01:21:09,682
+I'll stop it.
+
+1122
+01:21:24,780 --> 01:21:26,324
+I stopped it before.
+
+1123
+01:21:43,132 --> 01:21:45,885
+You will get better, Father will get better,
+
+1124
+01:21:45,968 --> 01:21:48,137
+and we'll all be together soon, all right?
+
+1125
+01:21:49,430 --> 01:21:50,264
+We...
+
+1126
+01:21:51,307 --> 01:21:55,269
+-We can't stop God's will.
+-Well, God hasn't met my will yet.
+
+1127
+01:21:55,353 --> 01:21:57,104
+What Jo wills shall be done.
+
+1128
+01:22:14,121 --> 01:22:15,331
+Amy.
+
+1129
+01:22:15,414 --> 01:22:16,624
+Come here.
+
+1130
+01:22:23,464 --> 01:22:24,298
+Yes?
+
+1131
+01:22:24,382 --> 01:22:25,466
+Come, sit.
+
+1132
+01:22:33,474 --> 01:22:37,311
+If you are very good, one day, this ring will belong to you.
+
+1133
+01:22:39,981 --> 01:22:42,775
+-Really?
+-If you keep being a proper young lady,
+
+1134
+01:22:42,859 --> 01:22:44,235
+just see if it doesn't.
+
+1135
+01:22:49,198 --> 01:22:51,242
+You are your family's hope now.
+
+1136
+01:22:52,451 --> 01:22:55,371
+Beth is sick, Jo is a lost cause,
+
+1137
+01:22:55,454 --> 01:22:59,792
+and I hear Meg has had her head turned
+by a penniless tutor, so...
+
+1138
+01:23:01,294 --> 01:23:05,047
+it'll be up to you to support them all.
+
+1139
+01:23:06,507 --> 01:23:09,051
+And your indigent parents in their old age.
+
+1140
+01:23:10,553 --> 01:23:12,263
+So you must marry well.
+
+1141
+01:23:16,893 --> 01:23:18,227
+Save your family.
+
+1142
+01:23:21,772 --> 01:23:24,692
+All right, that's all I wanted to say to you.
+
+1143
+01:23:26,068 --> 01:23:29,780
+So you can go back and do your little painting.
+
+1144
+01:23:38,206 --> 01:23:39,832
+Hello, Aunt March.
+
+1145
+01:23:41,083 --> 01:23:43,711
+That Laurence boy was just here.
+
+1146
+01:23:43,794 --> 01:23:45,004
+He was?
+
+1147
+01:23:45,087 --> 01:23:48,007
+What a disappointment he's turned out to be.
+
+1148
+01:23:48,090 --> 01:23:49,842
+Must be the Italian in him.
+
+1149
+01:23:49,926 --> 01:23:52,011
+When will he be back?
+
+1150
+01:23:53,012 --> 01:23:54,555
+He's gone.
+
+1151
+01:23:54,639 --> 01:23:55,598
+To London.
+
+1152
+01:23:57,600 --> 01:23:58,434
+Why?
+
+1153
+01:24:00,061 --> 01:24:02,271
+What do you need to discuss with him?
+
+1154
+01:24:16,536 --> 01:24:20,122
+I... I just told Fred Vaughn I wouldn't marry him.
+
+1155
+01:24:44,397 --> 01:24:45,231
+Meg.
+
+1156
+01:24:52,405 --> 01:24:54,407
+<i>I'll come home to help with the children. Sorry.</i>
+
+1157
+01:24:54,490 --> 01:24:57,076
+-I just-- I'm so worried for Beth.
+-Stay.
+
+1158
+01:24:57,160 --> 01:25:00,454
+-I asked for leave. I will take care of the children.
+-Oh, John.
+
+1159
+01:25:03,374 --> 01:25:04,417
+There's one other thing.
+
+1160
+01:25:04,500 --> 01:25:07,211
+You should send your fabric
+to the dressmaker as soon as possible.
+
+1161
+01:25:07,295 --> 01:25:09,380
+-I can't.
+-I don't want to hear another word.
+
+1162
+01:25:09,463 --> 01:25:11,007
+I want you to have that dress.
+
+1163
+01:25:11,090 --> 01:25:13,467
+My old coat will be fine for the winter.
+
+1164
+01:25:13,551 --> 01:25:14,760
+-John, I--
+-It's all settled.
+
+1165
+01:25:14,844 --> 01:25:16,429
+John, I really can't.
+
+1166
+01:25:17,138 --> 01:25:19,140
+I sold the fabric to Sallie.
+
+1167
+01:25:21,350 --> 01:25:22,351
+You did?
+
+1168
+01:25:24,770 --> 01:25:27,023
+I don't want you to be unhappy.
+
+1169
+01:25:27,106 --> 01:25:29,233
+I couldn't be.
+
+1170
+01:25:29,317 --> 01:25:32,904
+John Brooke is my husband.
+
+1171
+01:25:32,987 --> 01:25:34,447
+And I am his wife.
+
+1172
+01:25:41,954 --> 01:25:44,582
+Hannah! It's all right. It's all right.
+
+1173
+01:25:49,253 --> 01:25:50,087
+What do we do?
+
+1174
+01:25:52,673 --> 01:25:54,509
+We should send for your mother.
+
+1175
+01:26:09,732 --> 01:26:11,275
+-Marmee!
+-Bless you.
+
+1176
+01:26:11,359 --> 01:26:13,402
+She's worse. I didn't know what else to do.
+
+1177
+01:26:13,486 --> 01:26:15,488
+-Jo, how is she?
+-My girls.
+
+1178
+01:26:15,571 --> 01:26:16,656
+My sweet Beth.
+
+1179
+01:26:16,739 --> 01:26:20,117
+Hannah, make a clear broth.
+Jo, get ice. We need to cool you.
+
+1180
+01:26:21,869 --> 01:26:23,496
+Who's with Father?
+
+1181
+01:26:23,579 --> 01:26:24,956
+John stayed with him.
+
+1182
+01:26:25,039 --> 01:26:26,874
+We need to change the linens.
+
+1183
+01:26:26,958 --> 01:26:29,460
+We're going to move you, sweet girl.
+
+1184
+01:26:29,544 --> 01:26:30,753
+-Oh, look at her.
+-That's it.
+
+1185
+01:26:30,837 --> 01:26:32,004
+Hold on. It's okay.
+
+1186
+01:26:34,298 --> 01:26:35,716
+I know.
+
+1187
+01:27:25,683 --> 01:27:26,934
+Please fight.
+
+1188
+01:27:33,274 --> 01:27:35,526
+Don't go quietly.
+
+1189
+01:27:35,610 --> 01:27:36,569
+Fight.
+
+1190
+01:27:38,029 --> 01:27:41,199
+Please, please, just fight to the end and be loud,
+
+1191
+01:27:41,282 --> 01:27:43,701
+and don't just quietly go away, Beth.
+
+1192
+01:28:06,891 --> 01:28:07,892
+Marmee?
+
+1193
+01:28:11,062 --> 01:28:12,021
+Marmee?
+
+1194
+01:28:12,814 --> 01:28:13,648
+Marmee?
+
+1195
+01:28:18,986 --> 01:28:19,987
+Jo.
+
+1196
+01:28:27,453 --> 01:28:28,913
+Merry Christmas, Beth.
+
+1197
+01:28:28,996 --> 01:28:30,790
+Popcorn. Make sure that it's in the middle.
+
+1198
+01:28:30,873 --> 01:28:32,500
+-I know.
+-You're doing the sides first,
+
+1199
+01:28:32,583 --> 01:28:36,212
+and they aren't spaced for my popcorn
+because I'm making a popcorn garland.
+
+1200
+01:28:36,921 --> 01:28:39,632
+And you're wasting decorations,
+and they're not dangling right.
+
+1201
+01:28:39,715 --> 01:28:42,802
+The sides are the most important thing.
+If you don't have the sides...
+
+1202
+01:28:42,885 --> 01:28:45,555
+Here's another Christmas gift for the March family.
+
+1203
+01:28:46,681 --> 01:28:48,975
+-Oh, my God! Father!
+-Father!
+
+1204
+01:28:49,475 --> 01:28:50,351
+Father!
+
+1205
+01:28:54,063 --> 01:28:55,481
+My little women.
+
+1206
+01:28:57,441 --> 01:28:58,860
+How you've grown.
+
+1207
+01:29:00,153 --> 01:29:01,404
+Oh, Beth.
+
+1208
+01:29:02,113 --> 01:29:03,948
+Merry Christmas, my dear.
+
+1209
+01:29:04,031 --> 01:29:07,034
+-Merry Christmas to each of you.
+-Merry Christmas, Father.
+
+1210
+01:29:07,118 --> 01:29:08,244
+Merry Christmas.
+
+1211
+01:29:10,913 --> 01:29:12,748
+Oh, thank God.
+
+1212
+01:29:12,832 --> 01:29:15,209
+-Thank God you're home.
+-Thank God for you.
+
+1213
+01:29:15,918 --> 01:29:18,337
+Now I can be angry with you in person.
+
+1214
+01:31:27,133 --> 01:31:29,635
+I can't believe today is my wedding day.
+
+1215
+01:31:32,430 --> 01:31:33,264
+What's wrong?
+
+1216
+01:31:34,265 --> 01:31:35,099
+Nothing.
+
+1217
+01:31:36,392 --> 01:31:37,226
+Jo.
+
+1218
+01:31:40,688 --> 01:31:43,024
+We can leave. We can leave right now.
+
+1219
+01:31:43,107 --> 01:31:45,234
+I can make money. I'll sell stories.
+
+1220
+01:31:45,318 --> 01:31:49,822
+I'll do anything. I'll cook. I'll clean.
+I'll work in a factory. I can make a life for us.
+
+1221
+01:31:49,906 --> 01:31:51,991
+-Jo--
+-And you should be an actress,
+
+1222
+01:31:52,074 --> 01:31:54,076
+and you should have a life on the stage.
+
+1223
+01:31:54,160 --> 01:31:55,786
+Let's just run away together.
+
+1224
+01:31:55,870 --> 01:31:58,414
+-I want to get married.
+-Oh, why?
+
+1225
+01:31:58,498 --> 01:32:00,041
+Because I love him.
+
+1226
+01:32:00,124 --> 01:32:03,211
+You will be bored of him in two years,
+
+1227
+01:32:03,294 --> 01:32:05,254
+and we'll be interesting forever.
+
+1228
+01:32:05,338 --> 01:32:08,966
+Just because my dreams are different than yours
+doesn't mean they're unimportant.
+
+1229
+01:32:11,344 --> 01:32:12,595
+I want a home.
+
+1230
+01:32:13,596 --> 01:32:17,058
+And a family. And I'm willing to work and struggle.
+
+1231
+01:32:17,141 --> 01:32:19,644
+But I want to do it with John.
+
+1232
+01:32:24,982 --> 01:32:26,943
+I just hate that you're leaving me.
+
+1233
+01:32:28,611 --> 01:32:29,737
+Don't leave.
+
+1234
+01:32:29,821 --> 01:32:30,905
+Oh, Jo.
+
+1235
+01:32:34,075 --> 01:32:35,701
+I'm not leaving you.
+
+1236
+01:32:36,410 --> 01:32:37,870
+And besides...
+
+1237
+01:32:40,206 --> 01:32:42,208
+one day, it will be your turn.
+
+1238
+01:32:49,340 --> 01:32:52,051
+I'd rather be a free spinster and paddle my own canoe.
+
+1239
+01:32:53,594 --> 01:32:54,470
+I would.
+
+1240
+01:33:00,685 --> 01:33:02,728
+Can't believe childhood is over.
+
+1241
+01:33:04,897 --> 01:33:07,984
+It was going to end one way or another.
+
+1242
+01:33:08,067 --> 01:33:09,527
+And what a happy end.
+
+1243
+01:33:12,113 --> 01:33:14,323
+What excessive promises...
+
+1244
+01:33:14,407 --> 01:33:17,869
+giving yourself away to get the other.
+
+1245
+01:33:17,952 --> 01:33:19,495
+What a gift.
+
+1246
+01:33:19,579 --> 01:33:24,876
+Always given before is known the cost or the reward.
+
+1247
+01:33:24,959 --> 01:33:26,669
+I pronounce you man and wife.
+
+1248
+01:33:27,837 --> 01:33:29,297
+You may kiss the bride.
+
+1249
+01:34:07,043 --> 01:34:08,628
+<i>Oh, don't have to make a fuss.</i>
+
+1250
+01:34:08,711 --> 01:34:10,880
+You don't need to see me to the carriage.
+
+1251
+01:34:10,963 --> 01:34:12,173
+Oh, I'm happy to.
+
+1252
+01:34:12,256 --> 01:34:14,509
+I hope you will be happy now...
+
+1253
+01:34:15,092 --> 01:34:19,430
+that you've ruined your life the same way
+your mother did by marrying your father.
+
+1254
+01:34:19,805 --> 01:34:22,183
+My dear sister, you're too kind.
+
+1255
+01:34:22,266 --> 01:34:25,311
+-And thank you for today's festivities.
+-You're most welcome.
+
+1256
+01:34:25,394 --> 01:34:26,771
+Thank you, Aunt March.
+
+1257
+01:34:26,854 --> 01:34:30,233
+Oh, I don't like to be kissed.
+
+1258
+01:34:30,316 --> 01:34:32,068
+Oh, I'm sorry.
+
+1259
+01:34:32,151 --> 01:34:35,988
+You will be sorry when you've tried love in a cottage
+and found it a failure.
+
+1260
+01:34:36,072 --> 01:34:39,033
+It can't be worse than some people find in big houses.
+
+1261
+01:34:39,116 --> 01:34:42,328
+Oh, I quite understand your meaning, missus.
+
+1262
+01:34:43,371 --> 01:34:44,956
+I don't miss a thing.
+
+1263
+01:34:45,039 --> 01:34:46,874
+We know this.
+
+1264
+01:34:46,958 --> 01:34:49,961
+And you're not entirely wrong.
+
+1265
+01:34:50,044 --> 01:34:53,381
+I may not always be right, but I'm never wrong.
+
+1266
+01:34:55,132 --> 01:34:59,220
+And here is the only sane member of the family.
+
+1267
+01:34:59,303 --> 01:35:01,180
+I really can't take any more of this.
+
+1268
+01:35:01,264 --> 01:35:02,890
+-I know.
+-You can imagine.
+
+1269
+01:35:11,149 --> 01:35:14,318
+Marmee! Marmee! Marmee, Marmee, Marmee!
+
+1270
+01:35:14,402 --> 01:35:16,404
+-What?
+-Aunt March is going to Europe.
+
+1271
+01:35:16,487 --> 01:35:18,281
+Oh, and she wants me to go with her!
+
+1272
+01:35:19,198 --> 01:35:20,491
+That's wonderful!
+
+1273
+01:35:20,575 --> 01:35:23,327
+Now I know why I spent
+all those boring hours reading to her.
+
+1274
+01:35:23,411 --> 01:35:24,954
+No, no, she wants me to go.
+
+1275
+01:35:26,455 --> 01:35:28,374
+As her companion.
+
+1276
+01:35:28,457 --> 01:35:30,334
+Europe, with you?
+
+1277
+01:35:30,418 --> 01:35:33,629
+Yes, she wants me to work on my art
+and my French, of course.
+
+1278
+01:35:34,255 --> 01:35:36,424
+You don't really like French though, do you?
+
+1279
+01:35:39,093 --> 01:35:40,553
+That's wonderful, Amy.
+
+1280
+01:35:43,014 --> 01:35:45,349
+Father! I'm going to Europe!
+
+1281
+01:36:17,173 --> 01:36:18,674
+Meg married.
+
+1282
+01:36:18,758 --> 01:36:20,885
+Amy off to Europe.
+
+1283
+01:36:20,968 --> 01:36:23,971
+And now that you're a graduate,
+you'll be off on a long holiday.
+
+1284
+01:36:25,806 --> 01:36:29,018
+I'm just not good like Beth, so I'm angry and restless.
+
+1285
+01:36:29,101 --> 01:36:31,771
+You don't have to stay here, Jo.
+
+1286
+01:36:31,854 --> 01:36:34,190
+Why? Should we run off and join a pirate ship?
+
+1287
+01:36:40,363 --> 01:36:42,406
+-No. No.
+-It's no use, Jo.
+
+1288
+01:36:42,490 --> 01:36:43,783
+-Don't.
+-We got to have it out.
+
+1289
+01:36:43,866 --> 01:36:44,951
+-No.
+-I have loved you
+
+1290
+01:36:45,034 --> 01:36:47,453
+ever since I've known you, Jo. I couldn't help it.
+
+1291
+01:36:47,537 --> 01:36:49,997
+-I tried to show and you wouldn't let me.
+-No.
+
+1292
+01:36:50,081 --> 01:36:54,460
+But I must make you hear now and give me an answer
+because I cannot go on like this!
+
+1293
+01:36:54,544 --> 01:36:56,087
+-Please don't.
+-I gave up billiards.
+
+1294
+01:36:56,170 --> 01:36:58,464
+I gave up everything you didn't like. I'm happy I did.
+
+1295
+01:36:58,548 --> 01:37:02,093
+It's fine, and I waited, and I never complained because I...
+
+1296
+01:37:03,553 --> 01:37:05,805
+You know, I figured you'd love me, Jo.
+
+1297
+01:37:06,931 --> 01:37:08,975
+And I realize I'm not half good enough
+
+1298
+01:37:09,058 --> 01:37:11,227
+-and I'm not this great man--
+-No! Yes, you are.
+
+1299
+01:37:11,310 --> 01:37:12,937
+You're a great deal too good for me.
+
+1300
+01:37:13,020 --> 01:37:16,899
+And I'm so grateful to you,
+and I'm so proud of you, and I just--
+
+1301
+01:37:16,983 --> 01:37:20,111
+I don't see why I can't love you as you want me to.
+
+1302
+01:37:20,194 --> 01:37:21,404
+I don't know why.
+
+1303
+01:37:22,280 --> 01:37:23,364
+You can't?
+
+1304
+01:37:23,447 --> 01:37:25,658
+No. I can't.
+
+1305
+01:37:25,741 --> 01:37:27,910
+I can't change how I feel, and...
+
+1306
+01:37:29,829 --> 01:37:32,373
+it would be a lie to say I do when I don't.
+
+1307
+01:37:33,791 --> 01:37:35,209
+I'm so sorry, Teddy.
+
+1308
+01:37:36,252 --> 01:37:39,046
+I'm so sorry, but I just can't help it.
+
+1309
+01:37:39,130 --> 01:37:41,591
+I can't love anyone else, Jo. I only love you.
+
+1310
+01:37:41,674 --> 01:37:43,259
+It would be a disaster if we married.
+
+1311
+01:37:43,342 --> 01:37:45,136
+-It wouldn't be.
+-We'd be miserable.
+
+1312
+01:37:45,219 --> 01:37:47,221
+-Jo, I'd be a perfect saint.
+-I can't! I can't!
+
+1313
+01:37:47,305 --> 01:37:50,016
+-I've tried it and I failed. I can't.
+-Why does everyone expect it, then?
+
+1314
+01:37:50,099 --> 01:37:54,228
+Why does your family and my grandpa expect it?
+Why are you saying this? Say yes.
+
+1315
+01:37:54,312 --> 01:37:59,233
+-Let's be happy together, Jo!
+-I can't say yes truly, so I'm not going to say it at all.
+
+1316
+01:37:59,317 --> 01:38:01,611
+You'll see that I'm right eventually,
+
+1317
+01:38:01,694 --> 01:38:03,321
+and you'll thank me for it.
+
+1318
+01:38:07,617 --> 01:38:09,535
+I'd rather hang myself than realize this, Jo.
+
+1319
+01:38:09,619 --> 01:38:11,496
+-Teddy.
+-I would rather be dead.
+
+1320
+01:38:11,996 --> 01:38:13,414
+Teddy, don't say that.
+
+1321
+01:38:14,540 --> 01:38:15,541
+Teddy.
+
+1322
+01:38:17,210 --> 01:38:21,214
+Listen, you'll find some lovely, accomplished girl
+
+1323
+01:38:21,297 --> 01:38:23,966
+who will love you and adore you,
+
+1324
+01:38:24,050 --> 01:38:27,762
+and she's gonna make a fine mistress
+for your fine house, but I wouldn't.
+
+1325
+01:38:27,845 --> 01:38:29,263
+-Yes, you would, Jo.
+-Look at me.
+
+1326
+01:38:29,347 --> 01:38:32,308
+-I'm homely, and I'm awkward, and I'm odd.
+-I love you, Jo.
+
+1327
+01:38:32,391 --> 01:38:34,477
+-And you'd be ashamed of me.
+-I love you, Jo.
+
+1328
+01:38:34,560 --> 01:38:37,355
+And we would quarrel because we can't help it even now.
+
+1329
+01:38:40,107 --> 01:38:44,737
+I'd hate elegant society, you'd hate my scribbling,
+and we would be unhappy.
+
+1330
+01:38:44,821 --> 01:38:47,740
+And we'd wish we hadn't done it,
+and everything will be horrid.
+
+1331
+01:38:50,868 --> 01:38:52,245
+Is there anything more?
+
+1332
+01:38:53,579 --> 01:38:55,289
+-No, nothing more.
+-All right.
+
+1333
+01:38:56,290 --> 01:38:57,291
+Except that...
+
+1334
+01:39:01,712 --> 01:39:04,131
+Teddy, I don't believe I will ever marry.
+
+1335
+01:39:05,466 --> 01:39:07,176
+I'm happy as I am,
+
+1336
+01:39:07,260 --> 01:39:10,054
+and I love my liberty too well to be in any hurry to give it up.
+
+1337
+01:39:10,137 --> 01:39:11,597
+-I think you're wrong, Jo.
+-No.
+
+1338
+01:39:11,681 --> 01:39:14,433
+I think you will marry.
+I think you'll find someone and love them.
+
+1339
+01:39:14,517 --> 01:39:17,562
+And you will live and die for them
+because that's your way, and you will.
+
+1340
+01:39:21,107 --> 01:39:22,316
+And I'll watch.
+
+1341
+01:40:01,606 --> 01:40:03,399
+I don't want to disturb your writing.
+
+1342
+01:40:04,442 --> 01:40:05,860
+I don't do that anymore.
+
+1343
+01:40:08,196 --> 01:40:09,405
+It didn't save her.
+
+1344
+01:40:26,297 --> 01:40:28,341
+You're much too lonely here, Jo.
+
+1345
+01:40:30,218 --> 01:40:34,680
+Wouldn't you like to go back to New York?
+What about your friend Friedrich?
+
+1346
+01:40:34,764 --> 01:40:36,182
+-Wasn't that his name?
+-No.
+
+1347
+01:40:37,892 --> 01:40:41,729
+I ruined our friendship with my temper,
+just as I ruin everything.
+
+1348
+01:40:41,812 --> 01:40:43,272
+I'm sure I'll never see him again.
+
+1349
+01:40:43,356 --> 01:40:46,192
+I doubt that a sincere friend would be deterred.
+
+1350
+01:40:48,486 --> 01:40:49,821
+I wish that were true.
+
+1351
+01:40:53,533 --> 01:40:56,661
+If I was a girl in a book, this would all be so easy.
+
+1352
+01:40:59,038 --> 01:41:00,873
+Just give up the world happily.
+
+1353
+01:41:05,169 --> 01:41:06,796
+Laurie's returning, you know.
+
+1354
+01:41:07,672 --> 01:41:09,340
+Oh, he is?
+
+1355
+01:41:09,423 --> 01:41:12,260
+There was a letter from Amy. She's coming home.
+
+1356
+01:41:12,343 --> 01:41:15,221
+She's devastated about Beth.
+
+1357
+01:41:15,304 --> 01:41:19,433
+Aunt March is very ill, so Laurie will accompany them.
+
+1358
+01:41:22,603 --> 01:41:23,813
+That's good of him.
+
+1359
+01:41:29,527 --> 01:41:31,612
+-What is it?
+-I don't know.
+
+1360
+01:41:31,696 --> 01:41:34,073
+I've always been quite content with my family.
+
+1361
+01:41:36,909 --> 01:41:38,327
+Don't understand it.
+
+1362
+01:41:40,663 --> 01:41:42,623
+Perhaps...
+
+1363
+01:41:42,707 --> 01:41:45,168
+Perhaps I...
+
+1364
+01:41:45,251 --> 01:41:47,587
+was too quick in turning him down.
+
+1365
+01:41:48,838 --> 01:41:49,714
+Laurie.
+
+1366
+01:41:52,383 --> 01:41:53,676
+Do you love him?
+
+1367
+01:41:57,430 --> 01:42:00,141
+If he asked me again, I think I would say yes.
+
+1368
+01:42:01,517 --> 01:42:03,060
+Do you think he'll ask me again?
+
+1369
+01:42:04,228 --> 01:42:05,605
+But do you love him?
+
+1370
+01:42:07,732 --> 01:42:09,817
+I care more to be loved.
+
+1371
+01:42:10,776 --> 01:42:12,069
+I want to be loved.
+
+1372
+01:42:13,154 --> 01:42:15,490
+That is not the same as loving.
+
+1373
+01:42:19,952 --> 01:42:20,786
+I know.
+
+1374
+01:42:23,581 --> 01:42:26,667
+You know, I just-- I just feel...
+
+1375
+01:42:26,751 --> 01:42:28,419
+I just feel like...
+
+1376
+01:42:29,879 --> 01:42:31,672
+women, they...
+
+1377
+01:42:33,966 --> 01:42:38,387
+They have minds and they have souls, as well as just hearts.
+
+1378
+01:42:38,471 --> 01:42:42,225
+And they've got ambition and they've got talent,
+as well as just beauty.
+
+1379
+01:42:42,308 --> 01:42:47,522
+And I'm so sick of people saying
+that love is just all a woman is fit for.
+
+1380
+01:42:47,605 --> 01:42:49,106
+I'm so sick of it.
+
+1381
+01:42:50,733 --> 01:42:53,653
+But I'm-- I'm so lonely.
+
+1382
+01:43:36,612 --> 01:43:39,866
+Couldn't let you travel alone with Aunt March being so sick.
+
+1383
+01:43:41,534 --> 01:43:43,286
+Even if you despise me.
+
+1384
+01:43:44,871 --> 01:43:46,664
+I don't despise you, Laurie.
+
+1385
+01:43:54,172 --> 01:43:56,048
+Beth was the best of us.
+
+1386
+01:44:09,020 --> 01:44:10,730
+I'm not marrying Fred.
+
+1387
+01:44:14,484 --> 01:44:16,110
+I heard about that.
+
+1388
+01:44:16,194 --> 01:44:20,990
+And you are under no obligation
+to say anything or do anything.
+
+1389
+01:44:24,202 --> 01:44:26,496
+I just didn't love him as I should.
+
+1390
+01:44:28,498 --> 01:44:31,751
+So we don't need to talk about it.
+We don't need to say anything.
+
+1391
+01:44:47,934 --> 01:44:49,894
+<i>My dear Teddy,</i>
+
+1392
+01:44:49,977 --> 01:44:52,188
+<i>I miss you more than I can express.</i>
+
+1393
+01:44:52,939 --> 01:44:56,275
+<i>I used to think that the worst fate was to be a wife.</i>
+
+1394
+01:44:57,485 --> 01:44:59,487
+<i>I was young and stupid.</i>
+
+1395
+01:45:00,738 --> 01:45:02,615
+<i>But now I have changed.</i>
+
+1396
+01:45:02,698 --> 01:45:05,785
+<i>The worst fate is to live my life without you in it.</i>
+
+1397
+01:45:07,161 --> 01:45:10,414
+<i>I was wrong to turn you down and run away to New York.</i>
+
+1398
+01:45:16,879 --> 01:45:18,172
+Oysters!
+
+1399
+01:45:22,885 --> 01:45:24,262
+Lobsters!
+
+1400
+01:45:36,607 --> 01:45:37,692
+<i>Jo.</i>
+
+1401
+01:45:38,693 --> 01:45:40,528
+<i>Jo. Jo.</i>
+
+1402
+01:45:42,029 --> 01:45:42,864
+Jo.
+
+1403
+01:45:44,157 --> 01:45:45,074
+Wake up.
+
+1404
+01:45:45,867 --> 01:45:46,868
+Wake up.
+
+1405
+01:45:50,413 --> 01:45:54,292
+-Teddy! Oh, you're back.
+-Are you glad to see me, then?
+
+1406
+01:45:55,334 --> 01:45:56,460
+Yes.
+
+1407
+01:45:56,919 --> 01:45:58,629
+Oh, I was worried.
+
+1408
+01:46:00,339 --> 01:46:01,340
+Here, come sit.
+
+1409
+01:46:07,430 --> 01:46:10,766
+How's Amy? Did she bother you all the way
+from Europe with her preening?
+
+1410
+01:46:10,850 --> 01:46:13,102
+Yes, but I like that.
+
+1411
+01:46:13,186 --> 01:46:14,687
+Where is she? Did she not come home?
+
+1412
+01:46:14,770 --> 01:46:17,356
+Your mother has her down at Meg's.
+We stopped on the way.
+
+1413
+01:46:17,440 --> 01:46:19,650
+There was no getting my wife out of their clutches.
+
+1414
+01:46:21,986 --> 01:46:23,404
+Your what?
+
+1415
+01:46:23,488 --> 01:46:27,325
+I've done it now. It was meant to be a surprise.
+
+1416
+01:46:27,700 --> 01:46:29,702
+We were engaged and we were hoping to wait,
+
+1417
+01:46:29,785 --> 01:46:32,914
+but that is to say that now we are man and wife.
+
+1418
+01:46:35,791 --> 01:46:37,210
+You and Amy?
+
+1419
+01:46:37,293 --> 01:46:38,127
+Yes.
+
+1420
+01:46:49,931 --> 01:46:51,307
+Are you in love?
+
+1421
+01:46:51,390 --> 01:46:52,308
+Yes.
+
+1422
+01:46:56,020 --> 01:46:58,439
+Jo, I want to say one thing and then we'll put it away forever.
+
+1423
+01:46:58,523 --> 01:47:00,733
+I've always loved you.
+
+1424
+01:47:00,817 --> 01:47:02,693
+But the love I feel for Amy, it's different.
+
+1425
+01:47:03,194 --> 01:47:04,195
+And I think...
+
+1426
+01:47:05,071 --> 01:47:07,824
+you were right about this.
+I think we would've killed each other.
+
+1427
+01:47:10,618 --> 01:47:11,661
+Yes.
+
+1428
+01:47:12,245 --> 01:47:13,913
+I think it was meant this way.
+
+1429
+01:47:15,873 --> 01:47:17,083
+Oh, Teddy.
+
+1430
+01:47:17,500 --> 01:47:19,585
+You're the only one that ever calls me that, Jo.
+
+1431
+01:47:19,669 --> 01:47:20,670
+"Teddy."
+
+1432
+01:47:22,088 --> 01:47:23,673
+What does Amy call you?
+
+1433
+01:47:23,756 --> 01:47:25,758
+"My lord."
+
+1434
+01:47:25,842 --> 01:47:27,718
+That sounds like her.
+
+1435
+01:47:31,764 --> 01:47:33,724
+Well, you look deserving of it.
+
+1436
+01:47:36,477 --> 01:47:38,980
+Could we still be friends, Jo, please?
+
+1437
+01:47:42,150 --> 01:47:44,902
+Of course, my boy. Always.
+
+1438
+01:47:55,830 --> 01:47:57,123
+She's a painter.
+
+1439
+01:47:58,040 --> 01:47:59,417
+Are you excited?
+
+1440
+01:48:09,969 --> 01:48:10,970
+Laurie told you?
+
+1441
+01:48:11,053 --> 01:48:12,513
+Yes, yes.
+
+1442
+01:48:14,015 --> 01:48:16,017
+Amy, I'm so happy for you.
+
+1443
+01:48:16,434 --> 01:48:18,311
+This-- This was meant to be.
+
+1444
+01:48:18,394 --> 01:48:20,396
+Oh, I'm so relieved. Thank you.
+
+1445
+01:48:20,479 --> 01:48:22,398
+I wanted to write, Jo. I wanted to write.
+
+1446
+01:48:22,482 --> 01:48:25,026
+And I wanted to explain,
+but everything was happening so fast
+
+1447
+01:48:25,109 --> 01:48:27,445
+and I was worried you'd be angry at me.
+
+1448
+01:48:27,528 --> 01:48:30,239
+-No. No.
+-No, you're not angry at me?
+
+1449
+01:48:31,991 --> 01:48:34,368
+Life is too short to be angry at one's sisters.
+
+1450
+01:48:40,541 --> 01:48:41,876
+I really miss her.
+
+1451
+01:48:42,293 --> 01:48:43,127
+I know.
+
+1452
+01:48:47,048 --> 01:48:48,049
+Thank you.
+
+1453
+01:49:46,983 --> 01:49:48,276
+Mr. Laurence.
+
+1454
+01:49:51,154 --> 01:49:52,071
+Jo.
+
+1455
+01:49:54,323 --> 01:49:55,575
+Oh, Jo.
+
+1456
+01:49:58,035 --> 01:50:00,913
+I couldn't bring myself to...
+
+1457
+01:50:05,334 --> 01:50:08,963
+The house doesn't seem right without her, and...
+
+1458
+01:50:10,882 --> 01:50:13,342
+Couldn't go in, knowing she wouldn't be there.
+
+1459
+01:50:20,766 --> 01:50:23,186
+I know I'm not half so good as my sister,
+
+1460
+01:50:23,728 --> 01:50:27,231
+but you know I'll be a friend to lean on, if you'll let me.
+
+1461
+01:50:35,031 --> 01:50:35,948
+All right.
+
+1462
+01:54:01,863 --> 01:54:03,739
+<i>Dear Mr. Dashwood,</i>
+
+1463
+01:54:03,823 --> 01:54:08,244
+enclosed are the first few chapters
+of a piece I've only begun working on.
+
+1464
+01:54:08,327 --> 01:54:12,039
+It could suit as a story for young people,
+but I think it is probably quite boring.
+
+1465
+01:54:12,748 --> 01:54:17,170
+<i>However, I'm sending it to you
+just in case it has something of value, though I doubt it.</i>
+
+1466
+01:54:17,253 --> 01:54:18,462
+<i>Jo March.</i>
+
+1467
+01:54:37,773 --> 01:54:39,525
+I thought she hated me.
+
+1468
+01:54:39,609 --> 01:54:42,028
+She could still hate you and leave you the house.
+
+1469
+01:54:42,111 --> 01:54:43,905
+What about you and John?
+
+1470
+01:54:43,988 --> 01:54:47,200
+We can't manage a grand house like this. It's too big.
+
+1471
+01:54:55,625 --> 01:55:00,755
+I should sell it, but I'd love to do something
+that would really make Aunt March turn in her grave.
+
+1472
+01:55:00,838 --> 01:55:02,840
+-I wouldn't mind that.
+-A nice turning.
+
+1473
+01:55:02,924 --> 01:55:04,800
+Just a rotation, nothing terrible.
+
+1474
+01:55:05,176 --> 01:55:06,427
+What will you do?
+
+1475
+01:55:08,387 --> 01:55:10,473
+I'd like to open a school.
+
+1476
+01:55:10,556 --> 01:55:13,601
+We never had a proper school,
+and now there are women's colleges opening.
+
+1477
+01:55:13,684 --> 01:55:15,895
+There should be a school. For Daisy.
+
+1478
+01:55:15,978 --> 01:55:19,106
+-And what will Demi do?
+-I'll open a school for boys and girls both.
+
+1479
+01:55:20,107 --> 01:55:21,234
+What about writing?
+
+1480
+01:55:22,485 --> 01:55:25,071
+-What about it?
+-What are you working on?
+
+1481
+01:55:25,154 --> 01:55:28,282
+I started something, but I don't think it's very good.
+
+1482
+01:55:28,366 --> 01:55:31,327
+-Everyone likes what you write.
+-No, they don't.
+
+1483
+01:55:31,410 --> 01:55:32,912
+I do.
+
+1484
+01:55:32,995 --> 01:55:35,206
+Well, it's just about our little life.
+
+1485
+01:55:35,289 --> 01:55:36,457
+So?
+
+1486
+01:55:36,541 --> 01:55:39,001
+Well, who will be interested in a story
+
+1487
+01:55:39,085 --> 01:55:40,962
+of domestic struggles and joys?
+
+1488
+01:55:41,045 --> 01:55:42,880
+It doesn't have any real importance.
+
+1489
+01:55:42,964 --> 01:55:46,175
+Maybe it doesn't seem important
+because people don't write about them.
+
+1490
+01:55:46,259 --> 01:55:49,929
+No, writing doesn't confer importance. It reflects it.
+
+1491
+01:55:51,222 --> 01:55:53,015
+I don't think so.
+
+1492
+01:55:53,099 --> 01:55:55,184
+Writing them will make them more important.
+
+1493
+01:55:57,019 --> 01:55:59,146
+When did you become so wise?
+
+1494
+01:55:59,230 --> 01:56:02,066
+I always have been.
+You were just too busy noticing my faults.
+
+1495
+01:56:02,150 --> 01:56:03,985
+Which were never there, of course.
+
+1496
+01:56:20,501 --> 01:56:21,961
+<i>Dear Miss March,</i>
+
+1497
+01:56:22,044 --> 01:56:26,716
+I read the chapters you sent
+and I have to agree, they aren't very promising.
+
+1498
+01:56:26,799 --> 01:56:31,470
+<i>But, please, send more stories
+of the scandalous variety, if you have any.</i>
+
+1499
+01:56:31,846 --> 01:56:34,098
+Or, shall I say, your friend can.
+
+1500
+01:56:35,224 --> 01:56:37,602
+My apologies for the joke.
+
+1501
+01:56:37,685 --> 01:56:38,686
+I couldn't help it.
+
+1502
+01:56:39,228 --> 01:56:40,688
+Jo, come down!
+
+1503
+01:56:41,814 --> 01:56:42,732
+Coming!
+
+1504
+01:56:45,443 --> 01:56:46,903
+I'm starving.
+
+1505
+01:56:49,697 --> 01:56:51,908
+-Jo, you might wanna wait because--
+-I'm famished.
+
+1506
+01:56:51,991 --> 01:56:54,243
+But, Jo, dear, you have a guest.
+
+1507
+01:56:54,327 --> 01:56:55,953
+I don't know anyone.
+
+1508
+01:56:56,037 --> 01:56:58,664
+I'm sorry to intrude, but...
+
+1509
+01:57:00,791 --> 01:57:01,959
+It's you.
+
+1510
+01:57:15,598 --> 01:57:16,724
+Hello.
+
+1511
+01:57:17,475 --> 01:57:19,602
+Hello. I'm Josephine March.
+
+1512
+01:57:19,685 --> 01:57:21,395
+-I'm Jo.
+-Josephine, is that you?
+
+1513
+01:57:21,479 --> 01:57:25,149
+Welcome! Welcome. This is Kitty and Minnie.
+
+1514
+01:57:25,233 --> 01:57:30,613
+And I see that you have already met our professor.
+And he's a very accomplished man.
+
+1515
+01:57:30,696 --> 01:57:32,782
+And your mother says that you are a writer.
+
+1516
+01:57:32,865 --> 01:57:34,450
+I keep a diary, you know.
+
+1517
+01:57:34,534 --> 01:57:38,996
+We have a lot of interesting people here,
+intellectuals and Europeans...
+
+1518
+01:57:39,080 --> 01:57:42,542
+Jo, I hope it is all right. I got your address from Ms. Kirke.
+
+1519
+01:57:42,625 --> 01:57:44,210
+Who's this? Who are you?
+
+1520
+01:57:44,293 --> 01:57:48,756
+I'm so sorry to intrude. I was close by, and I thought I'd...
+
+1521
+01:57:48,840 --> 01:57:50,925
+-But I'll be going.
+-No, no.
+
+1522
+01:57:51,008 --> 01:57:52,885
+Please stay. We have more than enough room.
+
+1523
+01:57:52,969 --> 01:57:54,595
+Can someone tell me who this man is?
+
+1524
+01:57:54,679 --> 01:57:55,972
+I don't want to be a burden.
+
+1525
+01:57:56,055 --> 01:57:57,390
+Oh, you're not a burden at all.
+
+1526
+01:57:57,473 --> 01:57:59,100
+-Yes, of course. Please.
+- I'm Laurie.
+
+1527
+01:57:59,183 --> 01:58:01,394
+-Who are you?
+-I'm Friedrich Bhaer.
+
+1528
+01:58:01,477 --> 01:58:03,980
+We were at the same boardinghouse together in New York.
+
+1529
+01:58:04,063 --> 01:58:06,983
+Oh, Jo, he's very handsome.
+
+1530
+01:58:16,242 --> 01:58:18,077
+Do you intend to stay in New York?
+
+1531
+01:58:18,161 --> 01:58:21,497
+No. I've been offered a professorship in California.
+
+1532
+01:58:22,498 --> 01:58:26,460
+And, as I have nothing keeping me here,
+
+1533
+01:58:26,544 --> 01:58:29,046
+I thought I might go west.
+
+1534
+01:58:29,130 --> 01:58:32,925
+It is new there, and they are less particular about immigrants.
+
+1535
+01:58:33,426 --> 01:58:35,428
+Perhaps I should go west.
+
+1536
+01:58:35,511 --> 01:58:38,931
+You're not an immigrant, so perhaps you should stay home.
+
+1537
+01:58:42,518 --> 01:58:43,853
+I'm going!
+
+1538
+01:58:52,904 --> 01:58:53,946
+Jo!
+
+1539
+01:58:54,030 --> 01:58:56,240
+-Joseph, not Josephine.
+-I know Joseph.
+
+1540
+01:58:56,324 --> 01:58:57,658
+Pretty well, actually.
+
+1541
+01:58:59,869 --> 01:59:02,622
+This is a beautiful instrument.
+
+1542
+01:59:02,705 --> 01:59:04,123
+Which one of you plays?
+
+1543
+01:59:04,207 --> 01:59:06,584
+Oh, it was my sister Beth.
+
+1544
+01:59:06,667 --> 01:59:08,711
+We all play a little, but...
+
+1545
+01:59:08,794 --> 01:59:10,505
+But none so well as her.
+
+1546
+01:59:10,588 --> 01:59:12,715
+It is very hard to lose a sister.
+
+1547
+01:59:13,799 --> 01:59:14,842
+I'm sorry.
+
+1548
+01:59:16,802 --> 01:59:19,639
+-Do you play?
+-Yes. I do.
+
+1549
+01:59:19,722 --> 01:59:22,308
+It would make us so happy if you'd play now.
+
+1550
+01:59:22,391 --> 01:59:24,560
+She wouldn't want the piano to sit silent.
+
+1551
+01:59:26,062 --> 01:59:27,522
+I don't wish to offend.
+
+1552
+01:59:27,605 --> 01:59:29,190
+Not in the least.
+
+1553
+01:59:56,884 --> 02:00:00,137
+-It was so lovely to meet you.
+-Lovely to meet you. Goodbye.
+
+1554
+02:00:00,221 --> 02:00:01,889
+It was a real pleasure, Mr. Bhaer.
+
+1555
+02:00:01,973 --> 02:00:03,724
+-Bye, Laurie.
+-Goodbye.
+
+1556
+02:00:06,102 --> 02:00:08,521
+-Thank you for everything.
+-Lovely to have you.
+
+1557
+02:00:08,604 --> 02:00:13,609
+If you ever come to California, I would love to see you.
+
+1558
+02:00:15,486 --> 02:00:18,030
+I don't know that I will, but thank you.
+
+1559
+02:00:22,076 --> 02:00:24,537
+Well, goodbye.
+
+1560
+02:00:27,081 --> 02:00:27,957
+Goodbye.
+
+1561
+02:00:42,680 --> 02:00:43,598
+What?
+
+1562
+02:00:44,599 --> 02:00:46,309
+Why are you all looking at me like that?
+
+1563
+02:00:46,392 --> 02:00:48,686
+What a wonderful man. I hope he comes back.
+
+1564
+02:00:48,769 --> 02:00:50,605
+He would make a terrific friend for me.
+
+1565
+02:00:50,688 --> 02:00:53,191
+-Oh, Father, he wasn't here for you!
+-No?
+
+1566
+02:00:53,274 --> 02:00:55,610
+-Jo, you love him.
+-What?!
+
+1567
+02:00:55,693 --> 02:00:57,528
+-No, no, I don't.
+-Yes, you do!
+
+1568
+02:00:57,612 --> 02:01:01,491
+I am half as smart as you,
+but I can see it so plainly. You love him.
+
+1569
+02:01:01,574 --> 02:01:03,743
+-Doesn't she love him?
+-Good instinct. You love him.
+
+1570
+02:01:03,826 --> 02:01:06,787
+I have never seen you so happy. What else is love?
+
+1571
+02:01:06,871 --> 02:01:10,333
+You need to go after him.
+Laurie, prepare the horses. We can catch him.
+
+1572
+02:01:10,416 --> 02:01:12,335
+-I'm coming too.
+-No, I'm not going.
+
+1573
+02:01:12,418 --> 02:01:14,795
+-Yes, you are. Amy is right.
+-Exactly!
+
+1574
+02:01:14,879 --> 02:01:18,299
+Never thought I'd prepare a carriage
+to help Jo March chase a man, but I like it.
+
+1575
+02:01:18,382 --> 02:01:20,134
+-He's moving to California.
+-That was fiction!
+
+1576
+02:01:20,218 --> 02:01:23,721
+-He was practically begging for a reason to stay.
+-But it's raining outside.
+
+1577
+02:01:23,804 --> 02:01:25,723
+That doesn't matter. Can you come with me?
+
+1578
+02:01:25,806 --> 02:01:27,308
+-I need to fix you.
+-Jo.
+
+1579
+02:01:27,391 --> 02:01:31,395
+Laurie, will you stop standing there
+and go get the horses ready? Thank you.
+
+1580
+02:01:38,152 --> 02:01:42,615
+You never ask about my mother,
+even when you know I've seen her.
+
+1581
+02:01:42,698 --> 02:01:44,784
+I assume she's still alive.
+
+1582
+02:01:44,867 --> 02:01:46,577
+But I ask after your mother.
+
+1583
+02:01:46,661 --> 02:01:48,704
+And I have no idea why.
+
+1584
+02:01:48,788 --> 02:01:50,498
+You're willfully missing the point.
+
+1585
+02:01:50,581 --> 02:01:51,999
+That's true.
+
+1586
+02:01:52,083 --> 02:01:55,378
+-What is that--? What do they want?
+-I have no idea.
+
+1587
+02:01:56,212 --> 02:01:58,589
+-Father, are you publishing this?
+-What happened to the "little women"?
+
+1588
+02:01:58,673 --> 02:02:00,424
+Tell me you have the rest of this book.
+
+1589
+02:02:01,425 --> 02:02:02,260
+What?
+
+1590
+02:02:16,524 --> 02:02:18,693
+I'm just trying to fix this hair.
+
+1591
+02:02:23,322 --> 02:02:25,324
+Stop, stop, stop. Stop the carriage.
+
+1592
+02:02:25,408 --> 02:02:26,909
+-Wait, stop!
+-Stop the carriage!
+
+1593
+02:02:26,993 --> 02:02:29,829
+-Stop. All right, Go. Out. Out.
+-Go. Go, go, go.
+
+1594
+02:02:29,912 --> 02:02:31,122
+-Go!
+-Jo, your hair!
+
+1595
+02:02:31,205 --> 02:02:32,832
+Kiss him with love!
+
+1596
+02:02:41,841 --> 02:02:45,553
+Frankly, I don't see why she didn't marry the neighbor.
+
+1597
+02:02:45,636 --> 02:02:47,680
+Well, because the neighbor marries her sister.
+
+1598
+02:02:49,223 --> 02:02:51,851
+Right, right. Of course.
+
+1599
+02:02:53,895 --> 02:02:56,189
+-So who does she marry?
+-No one.
+
+1600
+02:02:56,564 --> 02:02:58,107
+She doesn't marry either of them.
+
+1601
+02:02:59,150 --> 02:03:00,026
+No.
+
+1602
+02:03:01,402 --> 02:03:04,363
+No! No, no, that won't work at all.
+
+1603
+02:03:04,447 --> 02:03:06,282
+She says the whole book that she doesn't want to marry.
+
+1604
+02:03:06,365 --> 02:03:08,075
+Who cares?
+
+1605
+02:03:08,159 --> 02:03:12,038
+-Girls want to see women married, not consistent.
+-No, it isn't the right ending.
+
+1606
+02:03:12,121 --> 02:03:14,290
+The right ending is the one that sells.
+
+1607
+02:03:15,583 --> 02:03:16,417
+Trust me.
+
+1608
+02:03:16,501 --> 02:03:20,713
+If you decide to end your delightful book
+with your heroine a spinster,
+
+1609
+02:03:20,796 --> 02:03:22,465
+no one will buy it.
+
+1610
+02:03:22,548 --> 02:03:24,383
+It won't be worth printing.
+
+1611
+02:03:25,510 --> 02:03:29,555
+I suppose marriage has always been
+an economic proposition, even in fiction.
+
+1612
+02:03:29,972 --> 02:03:31,057
+It's romance.
+
+1613
+02:03:31,516 --> 02:03:34,143
+-It's mercenary.
+-Just end it that way, will you?
+
+1614
+02:03:35,269 --> 02:03:36,187
+Fine.
+
+1615
+02:03:36,270 --> 02:03:37,563
+-Go!
+-Jo, your hair!
+
+1616
+02:03:37,647 --> 02:03:39,357
+-Kiss him with love!
+-Go!
+
+1617
+02:03:42,109 --> 02:03:44,987
+-You look so beautiful!
+-Go, Jo!
+
+1618
+02:04:03,756 --> 02:04:04,590
+Jo!
+
+1619
+02:04:12,598 --> 02:04:15,351
+I-- I don't want you to leave. I want you to stay.
+
+1620
+02:04:15,434 --> 02:04:16,727
+-You do?
+-Yes.
+
+1621
+02:04:16,811 --> 02:04:18,688
+I would never leave if you wish me to stay.
+
+1622
+02:04:18,771 --> 02:04:21,440
+-No, I want you to stay.
+-I have nothing to give you, Jo.
+
+1623
+02:04:21,524 --> 02:04:22,984
+It doesn't matter.
+
+1624
+02:04:23,067 --> 02:04:24,485
+My hands are empty.
+
+1625
+02:04:24,569 --> 02:04:25,736
+They're not empty.
+
+1626
+02:04:33,661 --> 02:04:34,912
+<i>I love it.</i>
+
+1627
+02:04:34,996 --> 02:04:36,622
+<i>It's romantic.</i>
+
+1628
+02:04:36,706 --> 02:04:38,791
+It's very moving.
+
+1629
+02:04:38,875 --> 02:04:40,293
+That's very emotional.
+
+1630
+02:04:40,376 --> 02:04:43,129
+-Well, thank you.
+-We could call the chapter...
+
+1631
+02:04:44,714 --> 02:04:46,299
+"Under the Umbrella."
+
+1632
+02:04:46,382 --> 02:04:47,842
+-That's good.
+-Perfect.
+
+1633
+02:04:47,925 --> 02:04:50,094
+Now, there's the question of the contract.
+
+1634
+02:04:50,178 --> 02:04:52,513
+I'm prepared to give you 5 percent of the royalties.
+
+1635
+02:04:52,597 --> 02:04:54,307
+So I get 5 percent of the profit.
+
+1636
+02:04:54,390 --> 02:04:57,685
+Five percent of the net profits, after I recoup.
+
+1637
+02:04:58,269 --> 02:05:00,479
+Well, what about a payment up front?
+
+1638
+02:05:00,563 --> 02:05:03,733
+I'm the one taking the risk in printing this book.
+
+1639
+02:05:03,816 --> 02:05:05,526
+Yes, but it's my book.
+
+1640
+02:05:05,610 --> 02:05:07,695
+And if it does well, we'll both make money.
+
+1641
+02:05:07,778 --> 02:05:09,614
+If not, I can stay in business.
+
+1642
+02:05:09,697 --> 02:05:11,365
+Oh, so I get nothing if it fails.
+
+1643
+02:05:11,449 --> 02:05:14,869
+No, I'll give you $500 right now to buy out the copyright.
+
+1644
+02:05:15,328 --> 02:05:16,245
+The copyright?
+
+1645
+02:05:16,329 --> 02:05:18,664
+That's the right for reprinting, that sort of thing.
+
+1646
+02:05:18,748 --> 02:05:21,000
+Sequels, characters for other stories.
+
+1647
+02:05:21,083 --> 02:05:24,712
+-Might that be worth something?
+-Well, only if it's a success.
+
+1648
+02:05:24,795 --> 02:05:28,174
+I see. It seems like something I would want to own, no?
+
+1649
+02:05:28,257 --> 02:05:31,135
+Didn't you say your family needed
+the money more immediately?
+
+1650
+02:05:31,219 --> 02:05:33,679
+Yes, they do, which is why I wanted up-front payment.
+
+1651
+02:05:33,763 --> 02:05:37,517
+No. It's too risky. I'll only pay for the copyright.
+
+1652
+02:05:44,941 --> 02:05:47,819
+You keep your $500, and I'll keep the copyright.
+
+1653
+02:05:49,612 --> 02:05:52,073
+Also, I want 10 percent of royalties.
+
+1654
+02:05:53,908 --> 02:05:57,578
+Five point five percent. That's very generous.
+
+1655
+02:05:57,662 --> 02:06:00,331
+-Nine percent.
+-Six percent, and that's it.
+
+1656
+02:06:02,166 --> 02:06:07,296
+Mr. Dashwood, if I'm going to sell my heroine
+into marriage for money, I might as well get some of it.
+
+1657
+02:06:08,381 --> 02:06:10,091
+Six point six percent.
+
+1658
+02:06:11,717 --> 02:06:12,593
+Done.
+
+1659
+02:06:12,677 --> 02:06:15,263
+And you don't need to decide about the copyright right now.
+
+1660
+02:06:15,346 --> 02:06:16,597
+No, I've decided.
+
+1661
+02:06:16,681 --> 02:06:18,391
+I want to own my own book.
+
+1662
+02:06:25,273 --> 02:06:27,817
+-Where is she?
+-She's here, everyone!
+
+1663
+02:06:33,865 --> 02:06:34,782
+Come on!
+
+1664
+02:06:43,332 --> 02:06:46,043
+Now, see if you can make a B.
+
